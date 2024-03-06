@@ -1,0 +1,673 @@
+---- Software
+
+-- Git
+98
+https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg
+- Getting Started
+About Version Control
+A Short History of Git
+What is Git?
+The Command Line
+Installing Git
+First-Time Git Setup
+Getting Help
+Summary
+- Git Basics
+Getting a Git Repository
+Recording Changes to the Repository
+Viewing the Commit History
+Undoing Things
+Working with Remotes
+Tagging
+Git Aliases
+Summary
+- Git Branching
+Branches in a Nutshell
+Basic Branching and Merging
+Branch Management
+Branching Workflows
+Remote Branches
+Rebasing
+Summary
+- GitHub
+Account Setup and Configuration
+Contributing to a Project
+Maintaining a Project
+Managing an organization
+Scripting GitHub
+Summary
+- Git Tools
+Revision Selection
+Interactive Staging
+Stashing and Cleaning
+Signing Your Work
+Searching
+Rewriting History
+Reset Demystified
+Advanced Merging
+Rerere
+Debugging with Git
+Submodules
+Bundling
+Replace
+Credential Storage
+Summary
+- Customizing Git
+Git Configuration
+Git Attributes
+Git Hooks
+An Example Git-Enforced Policy
+Summary
+- Git and Other Systems
+Git as a Client
+Migrating to Git
+Summary
+- Git Internals
+Plumbing and Porcelain
+Git Objects
+Git References
+Packfiles
+The Refspec
+Transfer Protocols
+Maintenance and Data Recovery
+Environment Variables
+Summary
+- Git in Other Environments 
+Plumbing and Porcelain
+Git Objects
+Git References
+Packfiles
+The Refspec
+Transfer Protocols
+Maintenance and Data Recovery
+Environment Variables
+Summary
+- Embedding Git in your Applications
+Command-line Git
+Libgit2
+JGit
+go-git
+Dulwich
+- Git Commands (Appendix)
+Setup and Config
+Getting and Creating Projects
+Basic Snapshotting
+Branching and Merging
+Sharing and Updating Projects
+Inspection and Comparison
+Debugging
+Patching
+Email
+External Systems
+Administration
+Plumbing Commands
+
+-- Github
+12
+https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg
+- Get started
+Migrations
+Account and profile
+Authentication
+Billing and payments
+Site policy
+- Collaborative coding
+Codespaces
+Repositories
+Pull requests
+GitHub Discussions
+GitHub Copilot
+- CI/CD and DevOps
+GitHub Actions
+GitHub Packages
+GitHub Pages
+- Security
+Code security
+Supply chain security
+Security advisories
+Dependabot
+Code scanning
+Secret scanning
+- Client apps
+GitHub CLI
+GitHub Desktop
+- Project management
+GitHub Issues
+Projects
+Tasklists
+Search on GitHub
+- Developers
+Apps
+REST API
+GraphQL API
+Webhooks
+- Enterprise and Teams
+Organizations
+Enterprise administrators
+- Community
+Building communities
+GitHub Sponsors
+GitHub Education
+GitHub Support
+Contribute to GitHub Docs
+- More docs (Related Skills)
+Electron
+CodeQL
+npm
+
+----
+
+---- Note Taking
+
+-- Notion
+34
+https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg
+- Notion AI
+Writer
+Autofill databases
+- Notion Calendar
+Connecting calendar with database
+- Workspaces
+- Using templates
+Notion templates
+Template marketplaces
+- Notion API
+- Block and markdown logic
+- Databases
+Database page
+Database view
+- Content blocks
+Links, backlinks
+Buttons
+Synced blocks
+Math equations
+- Formulas
+- Collabration & Publishing
+
+----
+
+---- Web Development
+
+-- Framer
+12
+https://github.com/tandpfun/skill-icons/raw/main/icons/Obsidian-Dark.svg
+- Workflow
+Pages
+Page folders
+- Layout
+Stack
+Grid
+Breakpoints
+- Properties
+Opacity
+Visibility
+Fill
+Overflow
+- Assets
+Color styles
+Light and dark mode
+Text styles
+- Extra Styling
+Custom cursors
+- Custom code
+Code overrides
+Custom components
+Custom component properties
+Package imports
+File imports
+- Navigation
+Lint to
+Scroll to
+- Components
+Basics
+Variables
+Variants
+Hover and active state
+- CMS
+CMS pages
+CMS lists
+Import csv
+Relational databases
+- Localization
+Basics
+CMS localization
+- Effects
+Transition effects
+Appear effects
+Scroll animation
+- Import
+Figma copy paste
+Chrome extension
+- Premade components
+Forms
+Icons
+Ticker
+Slideshow
+Carousel
+Code Block
+Creative components
+
+-- React
+34
+https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg
+- Components
+Rendering
+Props
+- Hooks
+useState and useEffect
+State Management
+
+-- Nextjs
+34
+https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg
+- Basics
+Server-side vs Client-side
+Project strucure and naming conventions
+- Routing
+- Data fetching
+- Rendering
+- Api routes
+- Rendering Images
+Image component
+Image render options
+
+-- Clerk
+34
+https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg
+- Components
+Login component
+Profile component
+- Organizations
+Organization Ids
+
+-- Framer Motion
+34
+https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg
+
+-- Liveblocks
+34
+https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg
+
+-- Tailwind
+12
+https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg
+- Getting Started
+Installation
+Editor Setup
+Using with Preprocessors
+Optimizing for Production
+Browser Support
+Upgrade Guide
+- Core Concepts
+Utility-First Fundamentals
+Hover, Focus, and Other States
+Responsive Design
+Dark Mode
+Reusing Styles
+Adding Custom Styles
+Functions & Directives
+- Customization
+Configuration
+Content
+Theme
+Screens
+Colors
+Spacing
+Plugins
+Presets
+- Base Styles
+Preflight
+- Layout
+Aspect Ratio
+Container
+Columns
+Break After
+Break Before
+Break Inside
+Box Decoration Break
+Box Sizing
+Display
+Floats
+Clear
+Isolation
+Object Fit
+Object Position
+Overflow
+Overscroll Behavior
+Position
+Top / Right / Bottom / Left
+Visibility
+Z-Index
+- Flexbox & Grid
+Flex Basis
+Flex Direction
+Flex Wrap
+Flex
+Flex Grow
+Flex Shrink
+Order
+Grid Template Columns
+Grid Column Start / End
+Grid Template Rows
+Grid Row Start / End
+Grid Auto Flow
+Grid Auto Columns
+Grid Auto Rows
+Gap
+Justify Content
+Justify Items
+Justify Self
+Align Content
+Align Items
+Align Self
+Place Content
+Place Items
+Place Self
+- Spacing
+Padding
+Margin
+Space Between
+- Sizing
+Width
+Min-Width
+Max-Width
+Height
+Min-Height
+Max-Height
+Size
+- Typography
+Font Family
+Font Size
+Font Smoothing
+Font Style
+Font Weight
+Font Variant Numeric
+Letter Spacing
+Line Clamp
+Line Height
+List Style Image
+List Style Position
+List Style Type
+Text Align
+Text Color
+Text Decoration
+Text Decoration Color
+Text Decoration Style
+Text Decoration Thickness
+Text Underline Offset
+Text Transform
+Text Overflow
+Text Wrap
+Text Indent
+Vertical Align
+Whitespace
+Word Break
+Hyphens
+Content
+- Backgrounds
+Background Attachment
+Background Clip
+Background Color
+Background Origin
+Background Position
+Background Repeat
+Background Size
+Background Image
+Gradient Color Stops
+- Borders
+Border Radius
+Border Width
+Border Color
+Border Style
+Divide Width
+Divide Color
+Divide Style
+Outline Width
+Outline Color
+Outline Style
+Outline Offset
+Ring Width
+Ring Color
+Ring Offset Width
+Ring Offset Color
+- Effects
+Box Shadow
+Box Shadow Color
+Opacity
+Mix Blend Mode
+Background Blend Mode
+- Filters
+Blur
+Brightness
+Contrast
+Drop Shadow
+Grayscale
+Hue Rotate
+Invert
+Saturate
+Sepia
+Backdrop Blur
+Backdrop Brightness
+Backdrop Contrast
+Backdrop Grayscale
+Backdrop Hue Rotate
+Backdrop Invert
+Backdrop Opacity
+Backdrop Saturate
+Backdrop Sepia
+- Tables
+Border Collapse
+Border Spacing
+Table Layout
+Caption Side
+- Transitions & Animation
+Transition Property
+Transition Duration
+Transition Timing Function
+Transition Delay
+Animation
+- Transforms
+Scale
+Rotate
+Translate
+Skew
+Transform Origin
+- Interactivity
+Accent Color
+Appearance
+Cursor
+Caret Color
+Pointer Events
+Resize
+Scroll Behavior
+Scroll Margin
+Scroll Padding
+Scroll Snap Align
+Scroll Snap Stop
+Scroll Snap Type
+Touch Action
+User Select
+Will Change
+- SVG
+Fill
+Stroke
+Stroke Width
+- Accessibility
+Screen Readers
+Forced Color Adjust
+- Official Plugins
+Typography
+Forms
+Aspect Ratio
+Container Queries
+
+-- Prisma
+87
+https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg
+- OVERVIEW
+Introduction
+Prisma ORM in your stack
+Databases
+- PRISMA SCHEMA
+Overview
+Data model
+Introspection
+PostgreSQL extensionsPreview
+- PRISMA CLIENT
+Setup & configuration
+Queries
+Fields & types
+Extensions
+Type safety
+Testing
+Deployment
+Observability & logging
+Debugging & troubleshooting
+- PRISMA MIGRATE
+Getting started
+Understanding Prisma Migrate
+Workflows
+- TOOLS
+Prisma CLI
+Prisma Studio
+REFERENCE
+Prisma Client API
+Prisma Schema
+Prisma CLI
+Errors
+Environment variables
+Database features matrix
+Supported databases
+Connection URLs
+System requirements
+Preview features
+- MORE
+Under the hood
+Upgrade guides
+Comparing Prisma ORM
+Migrate to Prisma ORM
+Development environment
+Help & troubleshooting
+ORM releases and maturity levels
+
+-- Obsidian
+87
+https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg
+- Getting started
+Download and install Obsidian
+Create a vault
+Create your first note
+Link notes
+- Import notes
+Sync your notes across devices
+Update Obsidian
+Glossary
+Use the mobile app
+Import notes
+Import from Apple Notes
+Import from Bear
+Import from Evernote
+Import from Google Keep
+Import from Microsoft OneNote
+Import from Notion
+Import from Roam Research
+Import HTML files
+Import Markdown files
+Import Zettelkasten notes
+- User interface
+Appearance
+Drag and drop
+Hotkeys
+Language settings
+Pop-out windows
+Ribbon
+Sidebar
+Status bar
+Tabs
+Workspace
+- Editing and formatting
+Basic formatting syntax
+Advanced formatting syntax
+Obsidian Flavored Markdown
+Tags
+Attachments
+Callouts
+Folding
+Multiple cursors
+Properties
+Edit and preview Markdown
+Editing shortcuts
+Embed web pages
+HTML content
+- Linking notes and files
+Internal links
+Aliases
+Embed files
+- Files and folders
+Accepted file formats
+Configuration folder
+How Obsidian stores data
+Manage notes
+Manage vaults
+Symbolic links and junctions
+- Plugins
+Core plugins
+Audio recorder
+Backlinks
+Bookmarks
+Canvas
+Command palette
+Daily notes
+File explorer
+File recovery
+Format converter
+Graph view
+Importer
+Note composer
+Outgoing links
+Outline
+Page preview
+Properties view
+Quick switcher
+Random note
+Search
+Slash commands
+Slides
+Templates
+Unique note creator
+Word count
+Workspaces
+Tags view
+- Obsidian Publish
+Introduction to Obsidian Publish
+Publish and unpublish notes
+Manage sites
+Customize your site
+Security and privacy
+Set up a custom domain
+Set up Google Analytics
+Set up Obsidian Publish
+Social media link previews
+Collaborate on a Publish site
+Media files
+Publish limitations
+Redirect old notes
+- Obsidian Sync
+Introduction to Obsidian Sync
+Set up Obsidian Sync
+Set up Obsidian Sync on another device
+Select files and settings to sync
+Local and remote vaults
+Security and privacy
+Troubleshoot Obsidian Sync
+Version history
+Back up your vault
+Collaborate on a shared vault
+Plans and storage limits
+Sync limitations
+- Extending Obsidian
+Community plugins
+Themes
+CSS snippets
+Plugin security
+Obsidian URI

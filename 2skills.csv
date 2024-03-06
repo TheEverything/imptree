@@ -1,0 +1,13 @@
+id;title;progress;imageUrl;skillCategoryId
+1;Git;98;https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg;1
+2;Github;12;https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg;1
+3;Notion;34;https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg;2
+4;Framer;12;https://github.com/tandpfun/skill-icons/raw/main/icons/Obsidian-Dark.svg;3
+5;React;34;https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg;3
+6;Nextjs;34;https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg;3
+7;Clerk;34;https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg;3
+8;Framer Motion;34;https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg;3
+9;Liveblocks;34;https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg;3
+10;Tailwind;12;https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg;3
+11;Prisma;87;https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg;3
+12;Obsidian;87;https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg;3

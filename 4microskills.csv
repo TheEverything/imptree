@@ -1,0 +1,527 @@
+id;name;skillTopicId
+1;About Version Control;1
+2;A Short History of Git;1
+3;What is Git?;1
+4;The Command Line;1
+5;Installing Git;1
+6;First-Time Git Setup;1
+7;Getting Help;1
+8;Summary;1
+9;Getting a Git Repository;2
+10;Recording Changes to the Repository;2
+11;Viewing the Commit History;2
+12;Undoing Things;2
+13;Working with Remotes;2
+14;Tagging;2
+15;Git Aliases;2
+16;Summary;2
+17;Branches in a Nutshell;3
+18;Basic Branching and Merging;3
+19;Branch Management;3
+20;Branching Workflows;3
+21;Remote Branches;3
+22;Rebasing;3
+23;Summary;3
+24;Account Setup and Configuration;4
+25;Contributing to a Project;4
+26;Maintaining a Project;4
+27;Managing an organization;4
+28;Scripting GitHub;4
+29;Summary;4
+30;Revision Selection;5
+31;Interactive Staging;5
+32;Stashing and Cleaning;5
+33;Signing Your Work;5
+34;Searching;5
+35;Rewriting History;5
+36;Reset Demystified;5
+37;Advanced Merging;5
+38;Rerere;5
+39;Debugging with Git;5
+40;Submodules;5
+41;Bundling;5
+42;Replace;5
+43;Credential Storage;5
+44;Summary;5
+45;Git Configuration;6
+46;Git Attributes;6
+47;Git Hooks;6
+48;An Example Git-Enforced Policy;6
+49;Summary;6
+50;Git as a Client;7
+51;Migrating to Git;7
+52;Summary;7
+53;Plumbing and Porcelain;8
+54;Git Objects;8
+55;Git References;8
+56;Packfiles;8
+57;The Refspec;8
+58;Transfer Protocols;8
+59;Maintenance and Data Recovery;8
+60;Environment Variables;8
+61;Summary;8
+62;Plumbing and Porcelain;9
+63;Git Objects;9
+64;Git References;9
+65;Packfiles;9
+66;The Refspec;9
+67;Transfer Protocols;9
+68;Maintenance and Data Recovery;9
+69;Environment Variables;9
+70;Summary;9
+71;Command-line Git;10
+72;Libgit2;10
+73;JGit;10
+74;go-git;10
+75;Dulwich;10
+76;Setup and Config;11
+77;Getting and Creating Projects;11
+78;Basic Snapshotting;11
+79;Branching and Merging;11
+80;Sharing and Updating Projects;11
+81;Inspection and Comparison;11
+82;Debugging;11
+83;Patching;11
+84;Email;11
+85;External Systems;11
+86;Administration;11
+87;Plumbing Commands;11
+88;Migrations;12
+89;Account and profile;12
+90;Authentication;12
+91;Billing and payments;12
+92;Site policy;12
+93;Codespaces;13
+94;Repositories;13
+95;Pull requests;13
+96;GitHub Discussions;13
+97;GitHub Copilot;13
+98;GitHub Actions;14
+99;GitHub Packages;14
+100;GitHub Pages;14
+101;Code security;15
+102;Supply chain security;15
+103;Security advisories;15
+104;Dependabot;15
+105;Code scanning;15
+106;Secret scanning;15
+107;GitHub CLI;16
+108;GitHub Desktop;16
+109;GitHub Issues;17
+110;Projects;17
+111;Tasklists;17
+112;Search on GitHub;17
+113;Apps;18
+114;REST API;18
+115;GraphQL API;18
+116;Webhooks;18
+117;Organizations;19
+118;Enterprise administrators;19
+119;Building communities;20
+120;GitHub Sponsors;20
+121;GitHub Education;20
+122;GitHub Support;20
+123;Contribute to GitHub Docs;20
+124;Electron;21
+125;CodeQL;21
+126;npm;21
+127;Writer;22
+128;Autofill databases;22
+129;Connecting calendar with database;23
+130;Notion templates;25
+131;Template marketplaces;25
+132;Database page;28
+133;Database view;28
+134;Links, backlinks;29
+135;Buttons;29
+136;Synced blocks;29
+137;Math equations;29
+138;Pages;32
+139;Page folders;32
+140;Stack;33
+141;Grid;33
+142;Breakpoints;33
+143;Opacity;34
+144;Visibility;34
+145;Fill;34
+146;Overflow;34
+147;Color styles;35
+148;Light and dark mode;35
+149;Text styles;35
+150;Custom cursors;36
+151;Code overrides;37
+152;Custom components;37
+153;Custom component properties;37
+154;Package imports;37
+155;File imports;37
+156;Lint to;38
+157;Scroll to;38
+158;Basics;39
+159;Variables;39
+160;Variants;39
+161;Hover and active state;39
+162;CMS pages;40
+163;CMS lists;40
+164;Import csv;40
+165;Relational databases;40
+166;Basics;41
+167;CMS localization;41
+168;Transition effects;42
+169;Appear effects;42
+170;Scroll animation;42
+171;Figma copy paste;43
+172;Chrome extension;43
+173;Forms;44
+174;Icons;44
+175;Ticker;44
+176;Slideshow;44
+177;Carousel;44
+178;Code Block;44
+179;Creative components;44
+180;Rendering;45
+181;Props;45
+182;useState and useEffect;46
+183;State Management;46
+184;Server-side vs Client-side;47
+185;Project strucure and naming conventions;47
+186;Image component;52
+187;Image render options;52
+188;Login component;53
+189;Profile component;53
+190;Organization Ids;54
+191;Installation;55
+192;Editor Setup;55
+193;Using with Preprocessors;55
+194;Optimizing for Production;55
+195;Browser Support;55
+196;Upgrade Guide;55
+197;Utility-First Fundamentals;56
+198;Hover, Focus, and Other States;56
+199;Responsive Design;56
+200;Dark Mode;56
+201;Reusing Styles;56
+202;Adding Custom Styles;56
+203;Functions & Directives;56
+204;Configuration;57
+205;Content;57
+206;Theme;57
+207;Screens;57
+208;Colors;57
+209;Spacing;57
+210;Plugins;57
+211;Presets;57
+212;Preflight;58
+213;Aspect Ratio;59
+214;Container;59
+215;Columns;59
+216;Break After;59
+217;Break Before;59
+218;Break Inside;59
+219;Box Decoration Break;59
+220;Box Sizing;59
+221;Display;59
+222;Floats;59
+223;Clear;59
+224;Isolation;59
+225;Object Fit;59
+226;Object Position;59
+227;Overflow;59
+228;Overscroll Behavior;59
+229;Position;59
+230;Top / Right / Bottom / Left;59
+231;Visibility;59
+232;Z-Index;59
+233;Flex Basis;60
+234;Flex Direction;60
+235;Flex Wrap;60
+236;Flex;60
+237;Flex Grow;60
+238;Flex Shrink;60
+239;Order;60
+240;Grid Template Columns;60
+241;Grid Column Start / End;60
+242;Grid Template Rows;60
+243;Grid Row Start / End;60
+244;Grid Auto Flow;60
+245;Grid Auto Columns;60
+246;Grid Auto Rows;60
+247;Gap;60
+248;Justify Content;60
+249;Justify Items;60
+250;Justify Self;60
+251;Align Content;60
+252;Align Items;60
+253;Align Self;60
+254;Place Content;60
+255;Place Items;60
+256;Place Self;60
+257;Padding;61
+258;Margin;61
+259;Space Between;61
+260;Width;62
+261;Min-Width;62
+262;Max-Width;62
+263;Height;62
+264;Min-Height;62
+265;Max-Height;62
+266;Size;62
+267;Font Family;63
+268;Font Size;63
+269;Font Smoothing;63
+270;Font Style;63
+271;Font Weight;63
+272;Font Variant Numeric;63
+273;Letter Spacing;63
+274;Line Clamp;63
+275;Line Height;63
+276;List Style Image;63
+277;List Style Position;63
+278;List Style Type;63
+279;Text Align;63
+280;Text Color;63
+281;Text Decoration;63
+282;Text Decoration Color;63
+283;Text Decoration Style;63
+284;Text Decoration Thickness;63
+285;Text Underline Offset;63
+286;Text Transform;63
+287;Text Overflow;63
+288;Text Wrap;63
+289;Text Indent;63
+290;Vertical Align;63
+291;Whitespace;63
+292;Word Break;63
+293;Hyphens;63
+294;Content;63
+295;Background Attachment;64
+296;Background Clip;64
+297;Background Color;64
+298;Background Origin;64
+299;Background Position;64
+300;Background Repeat;64
+301;Background Size;64
+302;Background Image;64
+303;Gradient Color Stops;64
+304;Border Radius;65
+305;Border Width;65
+306;Border Color;65
+307;Border Style;65
+308;Divide Width;65
+309;Divide Color;65
+310;Divide Style;65
+311;Outline Width;65
+312;Outline Color;65
+313;Outline Style;65
+314;Outline Offset;65
+315;Ring Width;65
+316;Ring Color;65
+317;Ring Offset Width;65
+318;Ring Offset Color;65
+319;Box Shadow;66
+320;Box Shadow Color;66
+321;Opacity;66
+322;Mix Blend Mode;66
+323;Background Blend Mode;66
+324;Blur;67
+325;Brightness;67
+326;Contrast;67
+327;Drop Shadow;67
+328;Grayscale;67
+329;Hue Rotate;67
+330;Invert;67
+331;Saturate;67
+332;Sepia;67
+333;Backdrop Blur;67
+334;Backdrop Brightness;67
+335;Backdrop Contrast;67
+336;Backdrop Grayscale;67
+337;Backdrop Hue Rotate;67
+338;Backdrop Invert;67
+339;Backdrop Opacity;67
+340;Backdrop Saturate;67
+341;Backdrop Sepia;67
+342;Border Collapse;68
+343;Border Spacing;68
+344;Table Layout;68
+345;Caption Side;68
+346;Transition Property;69
+347;Transition Duration;69
+348;Transition Timing Function;69
+349;Transition Delay;69
+350;Animation;69
+351;Scale;70
+352;Rotate;70
+353;Translate;70
+354;Skew;70
+355;Transform Origin;70
+356;Accent Color;71
+357;Appearance;71
+358;Cursor;71
+359;Caret Color;71
+360;Pointer Events;71
+361;Resize;71
+362;Scroll Behavior;71
+363;Scroll Margin;71
+364;Scroll Padding;71
+365;Scroll Snap Align;71
+366;Scroll Snap Stop;71
+367;Scroll Snap Type;71
+368;Touch Action;71
+369;User Select;71
+370;Will Change;71
+371;Fill;72
+372;Stroke;72
+373;Stroke Width;72
+374;Screen Readers;73
+375;Forced Color Adjust;73
+376;Typography;74
+377;Forms;74
+378;Aspect Ratio;74
+379;Container Queries;74
+380;Introduction;75
+381;Prisma ORM in your stack;75
+382;Databases;75
+383;Overview;76
+384;Data model;76
+385;Introspection;76
+386;PostgreSQL extensionsPreview;76
+387;Setup & configuration;77
+388;Queries;77
+389;Fields & types;77
+390;Extensions;77
+391;Type safety;77
+392;Testing;77
+393;Deployment;77
+394;Observability & logging;77
+395;Debugging & troubleshooting;77
+396;Getting started;78
+397;Understanding Prisma Migrate;78
+398;Workflows;78
+399;Prisma CLI;79
+400;Prisma Studio;79
+401;REFERENCE;79
+402;Prisma Client API;79
+403;Prisma Schema;79
+404;Prisma CLI;79
+405;Errors;79
+406;Environment variables;79
+407;Database features matrix;79
+408;Supported databases;79
+409;Connection URLs;79
+410;System requirements;79
+411;Preview features;79
+412;Under the hood;80
+413;Upgrade guides;80
+414;Comparing Prisma ORM;80
+415;Migrate to Prisma ORM;80
+416;Development environment;80
+417;Help & troubleshooting;80
+418;ORM releases and maturity levels;80
+419;Download and install Obsidian;81
+420;Create a vault;81
+421;Create your first note;81
+422;Link notes;81
+423;Sync your notes across devices;82
+424;Update Obsidian;82
+425;Glossary;82
+426;Use the mobile app;82
+427;Import notes;82
+428;Import from Apple Notes;82
+429;Import from Bear;82
+430;Import from Evernote;82
+431;Import from Google Keep;82
+432;Import from Microsoft OneNote;82
+433;Import from Notion;82
+434;Import from Roam Research;82
+435;Import HTML files;82
+436;Import Markdown files;82
+437;Import Zettelkasten notes;82
+438;Appearance;83
+439;Drag and drop;83
+440;Hotkeys;83
+441;Language settings;83
+442;Pop-out windows;83
+443;Ribbon;83
+444;Sidebar;83
+445;Status bar;83
+446;Tabs;83
+447;Workspace;83
+448;Basic formatting syntax;84
+449;Advanced formatting syntax;84
+450;Obsidian Flavored Markdown;84
+451;Tags;84
+452;Attachments;84
+453;Callouts;84
+454;Folding;84
+455;Multiple cursors;84
+456;Properties;84
+457;Edit and preview Markdown;84
+458;Editing shortcuts;84
+459;Embed web pages;84
+460;HTML content;84
+461;Internal links;85
+462;Aliases;85
+463;Embed files;85
+464;Accepted file formats;86
+465;Configuration folder;86
+466;How Obsidian stores data;86
+467;Manage notes;86
+468;Manage vaults;86
+469;Symbolic links and junctions;86
+470;Core plugins;87
+471;Audio recorder;87
+472;Backlinks;87
+473;Bookmarks;87
+474;Canvas;87
+475;Command palette;87
+476;Daily notes;87
+477;File explorer;87
+478;File recovery;87
+479;Format converter;87
+480;Graph view;87
+481;Importer;87
+482;Note composer;87
+483;Outgoing links;87
+484;Outline;87
+485;Page preview;87
+486;Properties view;87
+487;Quick switcher;87
+488;Random note;87
+489;Search;87
+490;Slash commands;87
+491;Slides;87
+492;Templates;87
+493;Unique note creator;87
+494;Word count;87
+495;Workspaces;87
+496;Tags view;87
+497;Introduction to Obsidian Publish;88
+498;Publish and unpublish notes;88
+499;Manage sites;88
+500;Customize your site;88
+501;Security and privacy;88
+502;Set up a custom domain;88
+503;Set up Google Analytics;88
+504;Set up Obsidian Publish;88
+505;Social media link previews;88
+506;Collaborate on a Publish site;88
+507;Media files;88
+508;Publish limitations;88
+509;Redirect old notes;88
+510;Introduction to Obsidian Sync;89
+511;Set up Obsidian Sync;89
+512;Set up Obsidian Sync on another device;89
+513;Select files and settings to sync;89
+514;Local and remote vaults;89
+515;Security and privacy;89
+516;Troubleshoot Obsidian Sync;89
+517;Version history;89
+518;Back up your vault;89
+519;Collaborate on a shared vault;89
+520;Plans and storage limits;89
+521;Sync limitations;89
+522;Community plugins;90
+523;Themes;90
+524;CSS snippets;90
+525;Plugin security;90
+526;Obsidian URI;90
