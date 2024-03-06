@@ -2,762 +2,1357 @@ id;name;skillTopicId
 1;Login component;1
 2;Profile component;1
 3;Organization Ids;2
-4;Pages;3
-5;Page folders;3
-6;Stack;4
-7;Grid;4
-8;Breakpoints;4
-9;Opacity;5
-10;Visibility;5
-11;Fill;5
-12;Overflow;5
-13;Color styles;6
-14;Light and dark mode;6
-15;Text styles;6
-16;Custom cursors;7
-17;Code overrides;8
-18;Custom components;8
-19;Custom component properties;8
-20;Package imports;8
-21;File imports;8
-22;Lint to;9
-23;Scroll to;9
-24;Basics;10
-25;Variables;10
-26;Variants;10
-27;Hover and active state;10
-28;CMS pages;11
-29;CMS lists;11
-30;Import csv;11
-31;Relational databases;11
-32;Basics;12
-33;CMS localization;12
-34;Transition effects;13
-35;Appear effects;13
-36;Scroll animation;13
-37;Figma copy paste;14
-38;Chrome extension;14
-39;Forms;15
-40;Icons;15
-41;Ticker;15
-42;Slideshow;15
-43;Carousel;15
-44;Code Block;15
-45;Creative components;15
-46;About Version Control;16
-47;A Short History of Git;16
-48;What is Git?;16
-49;The Command Line;16
-50;Installing Git;16
-51;First-Time Git Setup;16
-52;Getting Help;16
-53;Summary;16
-54;Getting a Git Repository;17
-55;Recording Changes to the Repository;17
-56;Viewing the Commit History;17
-57;Undoing Things;17
-58;Working with Remotes;17
-59;Tagging;17
-60;Git Aliases;17
-61;Summary;17
-62;Branches in a Nutshell;18
-63;Basic Branching and Merging;18
-64;Branch Management;18
-65;Branching Workflows;18
-66;Remote Branches;18
-67;Rebasing;18
-68;Summary;18
-69;Account Setup and Configuration;19
-70;Contributing to a Project;19
-71;Maintaining a Project;19
-72;Managing an organization;19
-73;Scripting GitHub;19
-74;Summary;19
-75;Revision Selection;20
-76;Interactive Staging;20
-77;Stashing and Cleaning;20
-78;Signing Your Work;20
-79;Searching;20
-80;Rewriting History;20
-81;Reset Demystified;20
-82;Advanced Merging;20
-83;Rerere;20
-84;Debugging with Git;20
-85;Submodules;20
-86;Bundling;20
-87;Replace;20
-88;Credential Storage;20
-89;Summary;20
-90;Git Configuration;21
-91;Git Attributes;21
-92;Git Hooks;21
-93;An Example Git-Enforced Policy;21
-94;Summary;21
-95;Git as a Client;22
-96;Migrating to Git;22
-97;Summary;22
-98;Plumbing and Porcelain;23
-99;Git Objects;23
-100;Git References;23
-101;Packfiles;23
-102;The Refspec;23
-103;Transfer Protocols;23
-104;Maintenance and Data Recovery;23
-105;Environment Variables;23
-106;Summary;23
-107;Plumbing and Porcelain;24
-108;Git Objects;24
-109;Git References;24
-110;Packfiles;24
-111;The Refspec;24
-112;Transfer Protocols;24
-113;Maintenance and Data Recovery;24
-114;Environment Variables;24
-115;Summary;24
-116;Command-line Git;25
-117;Libgit2;25
-118;JGit;25
-119;go-git;25
-120;Dulwich;25
-121;Setup and Config;26
-122;Getting and Creating Projects;26
-123;Basic Snapshotting;26
-124;Branching and Merging;26
-125;Sharing and Updating Projects;26
-126;Inspection and Comparison;26
-127;Debugging;26
-128;Patching;26
-129;Email;26
-130;External Systems;26
-131;Administration;26
-132;Plumbing Commands;26
-133;Migrations;27
-134;Account and profile;27
-135;Authentication;27
-136;Billing and payments;27
-137;Site policy;27
-138;Codespaces;28
-139;Repositories;28
-140;Pull requests;28
-141;GitHub Discussions;28
-142;GitHub Copilot;28
-143;GitHub Actions;29
-144;GitHub Packages;29
-145;GitHub Pages;29
-146;Code security;30
-147;Supply chain security;30
-148;Security advisories;30
-149;Dependabot;30
-150;Code scanning;30
-151;Secret scanning;30
-152;GitHub CLI;31
-153;GitHub Desktop;31
-154;GitHub Issues;32
-155;Projects;32
-156;Tasklists;32
-157;Search on GitHub;32
-158;Apps;33
-159;REST API;33
-160;GraphQL API;33
-161;Webhooks;33
-162;Organizations;34
-163;Enterprise administrators;34
-164;Building communities;35
-165;GitHub Sponsors;35
-166;GitHub Education;35
-167;GitHub Support;35
-168;Contribute to GitHub Docs;35
-169;Electron;36
-170;CodeQL;36
-171;npm;36
-172;Introduction to HTML;37
-173;Introduction to HTML overview;37
-174;Getting started with HTML;37
-175;What's in the head? Metadata in HTML;37
-176;HTML text fundamentals;37
-177;Creating hyperlinks;37
-178;Advanced text formatting;37
-179;Document and website structure;37
-180;Debugging HTML;37
-181;Assessment: Marking up a letter;37
-182;Assessment: Structuring a page of content;37
-183;Multimedia and embedding overview;38
-184;Images in HTML;38
-185;Video and audio content;38
-186;From object to iframe — other embedding technologies;38
-187;Adding vector graphics to the web;38
-188;Responsive images;38
-189;Assessment: Mozilla splash page;38
-190;HTML tables overview;39
-191;HTML table basics;39
-192;HTML table advanced features and accessibility;39
-193;Assessment: Structuring planet data;39
-194;<a>;40
-195;<abbr>;40
-196;<acronym> (Deprecated);40
-197;<address>;40
-198;<area>;40
-199;<article>;40
-200;<aside>;40
-201;<audio>;40
-202;<b>;40
-203;<base>;40
-204;<bdi>;40
-205;<bdo>;40
-206;<big> (Deprecated);40
-207;<blockquote>;40
-208;<body>;40
-209;<br>;40
-210;<button>;40
-211;<canvas>;40
-212;<caption>;40
-213;<center> (Deprecated);40
-214;<cite>;40
-215;<code>;40
-216;<col>;40
-217;<colgroup>;40
-218;<data>;40
-219;<datalist>;40
-220;<dd>;40
-221;<del>;40
-222;<details>;40
-223;<dfn>;40
-224;<dialog>;40
-225;<dir> (Deprecated);40
-226;<div>;40
-227;<dl>;40
-228;<dt>;40
-229;<em>;40
-230;<embed>;40
-231;<fencedframe> (Experimental);40
-232;<fieldset>;40
-233;<figcaption>;40
-234;<figure>;40
-235;<font> (Deprecated);40
-236;<footer>;40
-237;<form>;40
-238;<frame> (Deprecated);40
-239;<frameset> (Deprecated);40
-240;<h1>;40
-241;<head>;40
-242;<header>;40
-243;<hgroup>;40
-244;<hr>;40
-245;<html>;40
-246;<i>;40
-247;<iframe>;40
-248;<img>;40
-249;<input>;40
-250;<ins>;40
-251;<kbd>;40
-252;<label>;40
-253;<legend>;40
-254;<li>;40
-255;<link>;40
-256;<main>;40
-257;<map>;40
-258;<mark>;40
-259;<marquee> (Deprecated);40
-260;<menu>;40
-261;<menuitem> (Non-standard, Deprecated);40
-262;<meta>;40
-263;<meter>;40
-264;<nav>;40
-265;<nobr> (Deprecated);40
-266;<noembed> (Deprecated);40
-267;<noframes> (Deprecated);40
-268;<noscript>;40
-269;<object>;40
-270;<ol>;40
-271;<optgroup>;40
-272;<option>;40
-273;<output>;40
-274;<p>;40
-275;<param> (Deprecated);40
-276;<picture>;40
-277;<plaintext> (Deprecated);40
-278;<portal> (Experimental);40
-279;<pre>;40
-280;<progress>;40
-281;<q>;40
-282;<rb> (Deprecated);40
-283;<rp>;40
-284;<rt>;40
-285;<rtc> (Deprecated);40
-286;<ruby>;40
-287;<s>;40
-288;<samp>;40
-289;<script>;40
-290;<search>;40
-291;<section>;40
-292;<select>;40
-293;<slot>;40
-294;<small>;40
-295;<source>;40
-296;<span>;40
-297;<strike> (Deprecated);40
-298;<strong>;40
-299;<style>;40
-300;<sub>;40
-301;<summary>;40
-302;<sup>;40
-303;<table>;40
-304;<tbody>;40
-305;<td>;40
-306;<template>;40
-307;<textarea>;40
-308;<tfoot>;40
-309;<th>;40
-310;<thead>;40
-311;<time>;40
-312;<title>;40
-313;<tr>;40
-314;<track>;40
-315;<tt> (Deprecated);40
-316;<u>;40
-317;<ul>;40
-318;<var>;40
-319;<video>;40
-320;<wbr>;40
-321;<xmp> (Deprecated);40
-322;accesskey;41
-323;autocapitalize;41
-324;autofocus;41
-325;class;41
-326;contenteditable;41
-327;contextmenu (Non-standard, Deprecated);41
-328;data-*;41
-329;dir;41
-330;draggable;41
-331;enterkeyhint;41
-332;exportparts;41
-333;hidden;41
-334;id;41
-335;inert;41
-336;inputmode;41
-337;is;41
-338;itemid;41
-339;itemprop;41
-340;itemref;41
-341;itemscope;41
-342;itemtype;41
-343;lang;41
-344;nonce;41
-345;part;41
-346;popover;41
-347;slot;41
-348;spellcheck;41
-349;style;41
-350;tabindex;41
-351;title;41
-352;translate;41
-353;virtualkeyboardpolicy;41
-354;Experimental;41
-355;Attributes;41
-356;accept;41
-357;autocomplete;41
-358;capture;41
-359;crossorigin;41
-360;dirname;41
-361;disabled;41
-362;elementtiming;41
-363;for;41
-364;max;41
-365;maxlength;41
-366;min;41
-367;minlength;41
-368;multiple;41
-369;pattern;41
-370;placeholder;41
-371;readonly;41
-372;rel;41
-373;required;41
-374;size;41
-375;step;41
-376;<input type='button'>;42
-377;<input type='checkbox'>;42
-378;<input type='color'>;42
-379;<input type='date'>;42
-380;<input type='datetime-local'>;42
-381;<input type='email'>;42
-382;<input type='file'>;42
-383;<input type='hidden'>;42
-384;<input type='image'>;42
-385;<input type='month'>;42
-386;<input type='number'>;42
-387;<input type='password'>;42
-388;<input type='radio'>;42
-389;<input type='range'>;42
-390;<input type='reset'>;42
-391;<input type='search'>;42
-392;<input type='submit'>;42
-393;<input type='tel'>;42
-394;<input type='text'>;42
-395;<input type='time'>;42
-396;<input type='url'>;42
-397;<input type='week'>;42
-398;Content categories;43
-399;Block-level elements;43
-400;Inline elements;43
-401;Quirks Mode and Standards Mode;43
-402;Date and time formats used in HTML;43
-403;Constraint validation;43
-404;Microdata;43
-405;Microformats;43
-406;Viewport meta tag;43
-407;Allowing cross-origin use of images and canvas;43
-408;Server-side vs Client-side;44
-409;Project strucure and naming conventions;44
-410;Image component;49
-411;Image render options;49
-412;Writer;50
-413;Autofill databases;50
-414;Connecting calendar with database;51
-415;Notion templates;53
-416;Template marketplaces;53
-417;Database page;56
-418;Database view;56
-419;Links, backlinks;57
-420;Buttons;57
-421;Synced blocks;57
-422;Math equations;57
-423;Download and install Obsidian;60
-424;Create a vault;60
-425;Create your first note;60
-426;Link notes;60
-427;Sync your notes across devices;61
-428;Update Obsidian;61
-429;Glossary;61
-430;Use the mobile app;61
-431;Import notes;61
-432;Import from Apple Notes;61
-433;Import from Bear;61
-434;Import from Evernote;61
-435;Import from Google Keep;61
-436;Import from Microsoft OneNote;61
-437;Import from Notion;61
-438;Import from Roam Research;61
-439;Import HTML files;61
-440;Import Markdown files;61
-441;Import Zettelkasten notes;61
-442;Appearance;62
-443;Drag and drop;62
-444;Hotkeys;62
-445;Language settings;62
-446;Pop-out windows;62
-447;Ribbon;62
-448;Sidebar;62
-449;Status bar;62
-450;Tabs;62
-451;Workspace;62
-452;Basic formatting syntax;63
-453;Advanced formatting syntax;63
-454;Obsidian Flavored Markdown;63
-455;Tags;63
-456;Attachments;63
-457;Callouts;63
-458;Folding;63
-459;Multiple cursors;63
-460;Properties;63
-461;Edit and preview Markdown;63
-462;Editing shortcuts;63
-463;Embed web pages;63
-464;HTML content;63
-465;Internal links;64
-466;Aliases;64
-467;Embed files;64
-468;Accepted file formats;65
-469;Configuration folder;65
-470;How Obsidian stores data;65
-471;Manage notes;65
-472;Manage vaults;65
-473;Symbolic links and junctions;65
-474;Core plugins;66
-475;Audio recorder;66
-476;Backlinks;66
-477;Bookmarks;66
-478;Canvas;66
-479;Command palette;66
-480;Daily notes;66
-481;File explorer;66
-482;File recovery;66
-483;Format converter;66
-484;Graph view;66
-485;Importer;66
-486;Note composer;66
-487;Outgoing links;66
-488;Outline;66
-489;Page preview;66
-490;Properties view;66
-491;Quick switcher;66
-492;Random note;66
-493;Search;66
-494;Slash commands;66
-495;Slides;66
-496;Templates;66
-497;Unique note creator;66
-498;Word count;66
-499;Workspaces;66
-500;Tags view;66
-501;Introduction to Obsidian Publish;67
-502;Publish and unpublish notes;67
-503;Manage sites;67
-504;Customize your site;67
-505;Security and privacy;67
-506;Set up a custom domain;67
-507;Set up Google Analytics;67
-508;Set up Obsidian Publish;67
-509;Social media link previews;67
-510;Collaborate on a Publish site;67
-511;Media files;67
-512;Publish limitations;67
-513;Redirect old notes;67
-514;Introduction to Obsidian Sync;68
-515;Set up Obsidian Sync;68
-516;Set up Obsidian Sync on another device;68
-517;Select files and settings to sync;68
-518;Local and remote vaults;68
-519;Security and privacy;68
-520;Troubleshoot Obsidian Sync;68
-521;Version history;68
-522;Back up your vault;68
-523;Collaborate on a shared vault;68
-524;Plans and storage limits;68
-525;Sync limitations;68
-526;Community plugins;69
-527;Themes;69
-528;CSS snippets;69
-529;Plugin security;69
-530;Obsidian URI;69
-531;Introduction;70
-532;Prisma ORM in your stack;70
-533;Databases;70
-534;Overview;71
-535;Data model;71
-536;Introspection;71
-537;PostgreSQL extensionsPreview;71
-538;Setup & configuration;72
-539;Queries;72
-540;Fields & types;72
-541;Extensions;72
-542;Type safety;72
-543;Testing;72
-544;Deployment;72
-545;Observability & logging;72
-546;Debugging & troubleshooting;72
-547;Getting started;73
-548;Understanding Prisma Migrate;73
-549;Workflows;73
-550;Prisma CLI;74
-551;Prisma Studio;74
-552;REFERENCE;74
-553;Prisma Client API;74
-554;Prisma Schema;74
-555;Prisma CLI;74
-556;Errors;74
-557;Environment variables;74
-558;Database features matrix;74
-559;Supported databases;74
-560;Connection URLs;74
-561;System requirements;74
-562;Preview features;74
-563;Under the hood;75
-564;Upgrade guides;75
-565;Comparing Prisma ORM;75
-566;Migrate to Prisma ORM;75
-567;Development environment;75
-568;Help & troubleshooting;75
-569;ORM releases and maturity levels;75
-570;Rendering;76
-571;Props;76
-572;useState and useEffect;77
-573;State Management;77
-574;Installation;78
-575;Editor Setup;78
-576;Using with Preprocessors;78
-577;Optimizing for Production;78
-578;Browser Support;78
-579;Upgrade Guide;78
-580;Utility-First Fundamentals;79
-581;Hover, Focus, and Other States;79
-582;Responsive Design;79
-583;Dark Mode;79
-584;Reusing Styles;79
-585;Adding Custom Styles;79
-586;Functions & Directives;79
-587;Configuration;80
-588;Content;80
-589;Theme;80
-590;Screens;80
-591;Colors;80
-592;Spacing;80
-593;Plugins;80
-594;Presets;80
-595;Preflight;81
-596;Aspect Ratio;82
-597;Container;82
-598;Columns;82
-599;Break After;82
-600;Break Before;82
-601;Break Inside;82
-602;Box Decoration Break;82
-603;Box Sizing;82
-604;Display;82
-605;Floats;82
-606;Clear;82
-607;Isolation;82
-608;Object Fit;82
-609;Object Position;82
-610;Overflow;82
-611;Overscroll Behavior;82
-612;Position;82
-613;Top / Right / Bottom / Left;82
-614;Visibility;82
-615;Z-Index;82
-616;Flex Basis;83
-617;Flex Direction;83
-618;Flex Wrap;83
-619;Flex;83
-620;Flex Grow;83
-621;Flex Shrink;83
-622;Order;83
-623;Grid Template Columns;83
-624;Grid Column Start / End;83
-625;Grid Template Rows;83
-626;Grid Row Start / End;83
-627;Grid Auto Flow;83
-628;Grid Auto Columns;83
-629;Grid Auto Rows;83
-630;Gap;83
-631;Justify Content;83
-632;Justify Items;83
-633;Justify Self;83
-634;Align Content;83
-635;Align Items;83
-636;Align Self;83
-637;Place Content;83
-638;Place Items;83
-639;Place Self;83
-640;Padding;84
-641;Margin;84
-642;Space Between;84
-643;Width;85
-644;Min-Width;85
-645;Max-Width;85
-646;Height;85
-647;Min-Height;85
-648;Max-Height;85
-649;Size;85
-650;Font Family;86
-651;Font Size;86
-652;Font Smoothing;86
-653;Font Style;86
-654;Font Weight;86
-655;Font Variant Numeric;86
-656;Letter Spacing;86
-657;Line Clamp;86
-658;Line Height;86
-659;List Style Image;86
-660;List Style Position;86
-661;List Style Type;86
-662;Text Align;86
-663;Text Color;86
-664;Text Decoration;86
-665;Text Decoration Color;86
-666;Text Decoration Style;86
-667;Text Decoration Thickness;86
-668;Text Underline Offset;86
-669;Text Transform;86
-670;Text Overflow;86
-671;Text Wrap;86
-672;Text Indent;86
-673;Vertical Align;86
-674;Whitespace;86
-675;Word Break;86
-676;Hyphens;86
-677;Content;86
-678;Background Attachment;87
-679;Background Clip;87
-680;Background Color;87
-681;Background Origin;87
-682;Background Position;87
-683;Background Repeat;87
-684;Background Size;87
-685;Background Image;87
-686;Gradient Color Stops;87
-687;Border Radius;88
-688;Border Width;88
-689;Border Color;88
-690;Border Style;88
-691;Divide Width;88
-692;Divide Color;88
-693;Divide Style;88
-694;Outline Width;88
-695;Outline Color;88
-696;Outline Style;88
-697;Outline Offset;88
-698;Ring Width;88
-699;Ring Color;88
-700;Ring Offset Width;88
-701;Ring Offset Color;88
-702;Box Shadow;89
-703;Box Shadow Color;89
-704;Opacity;89
-705;Mix Blend Mode;89
-706;Background Blend Mode;89
-707;Blur;90
-708;Brightness;90
-709;Contrast;90
-710;Drop Shadow;90
-711;Grayscale;90
-712;Hue Rotate;90
-713;Invert;90
-714;Saturate;90
-715;Sepia;90
-716;Backdrop Blur;90
-717;Backdrop Brightness;90
-718;Backdrop Contrast;90
-719;Backdrop Grayscale;90
-720;Backdrop Hue Rotate;90
-721;Backdrop Invert;90
-722;Backdrop Opacity;90
-723;Backdrop Saturate;90
-724;Backdrop Sepia;90
-725;Border Collapse;91
-726;Border Spacing;91
-727;Table Layout;91
-728;Caption Side;91
-729;Transition Property;92
-730;Transition Duration;92
-731;Transition Timing Function;92
-732;Transition Delay;92
-733;Animation;92
-734;Scale;93
-735;Rotate;93
-736;Translate;93
-737;Skew;93
-738;Transform Origin;93
-739;Accent Color;94
-740;Appearance;94
-741;Cursor;94
-742;Caret Color;94
-743;Pointer Events;94
-744;Resize;94
-745;Scroll Behavior;94
-746;Scroll Margin;94
-747;Scroll Padding;94
-748;Scroll Snap Align;94
-749;Scroll Snap Stop;94
-750;Scroll Snap Type;94
-751;Touch Action;94
-752;User Select;94
-753;Will Change;94
-754;Fill;95
-755;Stroke;95
-756;Stroke Width;95
-757;Screen Readers;96
-758;Forced Color Adjust;96
-759;Typography;97
-760;Forms;97
-761;Aspect Ratio;97
-762;Container Queries;97
+4;CSS animations;3
+5;CSS backgrounds and borders;3
+6;CSS basic user interface;3
+7;CSS box alignment;3
+8;CSS box model;3
+9;CSS cascade and inheritance;3
+10;CSS custom properties for cascading variables;3
+11;CSS color adjustment;3
+12;CSS colors;3
+13;CSS compositing and blending;3
+14;CSS conditional rules;3
+15;CSS containment;3
+16;CSS counter styles;3
+17;CSS display;3
+18;CSS filter effects;3
+19;CSS flexible box layout;3
+20;CSS font loading;3
+21;CSS fonts;3
+22;CSS fragmentation;3
+23;CSS generated content;3
+24;CSS grid layout;3
+25;CSS images;3
+26;CSS lists and counters;3
+27;CSS logical properties and values;3
+28;CSS masking;3
+29;CSS media queries;3
+30;CSS miscellaneous;3
+31;CSS motion path;3
+32;CSS multi-column layout;3
+33;CSS namespaces;3
+34;CSS nesting;3
+35;CSS overflow;3
+36;CSS overscroll behavior;3
+37;CSS paged media;3
+38;CSS positioned layout;3
+39;CSS properties and values API;3
+40;CSS pseudo-elements;3
+41;CSS ruby layout;3
+42;CSS scoping;3
+43;CSS scroll-driven animations;3
+44;CSS scroll snap;3
+45;CSS scrollbars styling;3
+46;CSS selectors;3
+47;CSS shadow parts;3
+48;CSS shapes;3
+49;CSS syntax;3
+50;CSS table;3
+51;CSS text;3
+52;CSS text decoration;3
+53;CSS transforms;3
+54;CSS transitions;3
+55;CSS writing modes;3
+56;CSSOM view;3
+57;accent-color;6
+58;align-*;6
+59;all;6
+60;animation-*;6
+61;appearance;6
+62;aspect-ratio;6
+63;backdrop-filter;6
+64;backface-visibility;6
+65;background-*;6
+66;block-size;6
+67;border-*;6
+68;bottom;6
+69;box-*;6
+70;break-*;6
+71;caption-side;6
+72;caret-color;6
+73;clear;6
+74;clipDeprecated;6
+75;clip-path;6
+76;color-*;6
+77;column-*;6
+78;columns;6
+79;contain-*;6
+80;container-*;6
+81;content;6
+82;content-visibilityExperimental;6
+83;counter-*;6
+84;cursor;6
+85;direction;6
+86;display;6
+87;empty-cells;6
+88;filter;6
+89;flex-*;6
+90;float;6
+91;font-*;6
+92;forced-color-adjust;6
+93;gap;6
+94;grid-*;6
+95;hanging-punctuation;6
+96;height;6
+97;hyphenate-character;6
+98;hyphenate-limit-chars;6
+99;hyphens;6
+100;image-*;6
+101;initial-letterExperimental;6
+102;initial-letter-alignExperimental;6
+103;inline-size;6
+104;inset-*;6
+105;isolation;6
+106;justify-*;6
+107;left;6
+108;letter-spacing;6
+109;line-*;6
+110;list-*;6
+111;margin-*;6
+112;mask-*;6
+113;masonry-auto-flowExperimental;6
+114;math-*;6
+115;max-*;6
+116;min-*;6
+117;mix-blend-mode;6
+118;object-fit;6
+119;object-position;6
+120;offset-*;6
+121;opacity;6
+122;order;6
+123;orphans;6
+124;outline-*;6
+125;overflow-*;6
+126;overlayExperimental;6
+127;overscroll-*;6
+128;padding-*;6
+129;page-*;6
+130;paint-order;6
+131;perspective;6
+132;perspective-origin;6
+133;place-*;6
+134;pointer-events;6
+135;position;6
+136;print-color-adjust;6
+137;quotes;6
+138;resize;6
+139;right;6
+140;rotate;6
+141;row-gap;6
+142;ruby-alignExperimental;6
+143;ruby-position;6
+144;scale;6
+145;scroll-*;6
+146;scrollbar-*;6
+147;shape-*;6
+148;tab-size;6
+149;table-layout;6
+150;text-*;6
+151;timeline-scopeExperimental;6
+152;top;6
+153;touch-action;6
+154;transform-*;6
+155;transition-*;6
+156;translate;6
+157;unicode-bidi;6
+158;user-modifyNon-standardDeprecated;6
+159;user-select;6
+160;vertical-align;6
+161;view-*;6
+162;visibility;6
+163;white-space;6
+164;white-space-collapse;6
+165;widows;6
+166;width;6
+167;will-change;6
+168;word-break;6
+169;word-spacing;6
+170;writing-mode;6
+171;z-index;6
+172;zoomNon-standard;6
+173;Attribute selectors;7
+174;Class selectors;7
+175;ID selectors;7
+176;& nesting selector;7
+177;Type selectors;7
+178;Universal selectors;7
+179;Child combinator;8
+180;Column combinatorExperimental;8
+181;Descendant combinator;8
+182;Namespace separator;8
+183;Next-sibling combinator;8
+184;Selector list;8
+185;Subsequent-sibling combinator;8
+186;:-moz-brokenNon-standard;9
+187;:-moz-drag-overNon-standard;9
+188;:-moz-first-nodeNon-standard;9
+189;:-moz-handler-blockedNon-standard;9
+190;:-moz-handler-crashedNon-standard;9
+191;:-moz-handler-disabledNon-standard;9
+192;:-moz-last-nodeNon-standard;9
+193;:-moz-loadingNon-standard;9
+194;:-moz-locale-dir(ltr)Non-standard;9
+195;:-moz-locale-dir(rtl)Non-standard;9
+196;:-moz-only-whitespaceNon-standard;9
+197;:-moz-submit-invalidNon-standard;9
+198;:-moz-suppressedNon-standard;9
+199;:-moz-user-disabledNon-standard;9
+200;:-moz-window-inactiveNon-standard;9
+201;:active;9
+202;:any-link;9
+203;:autofill;9
+204;:blankExperimental;9
+205;:buffering;9
+206;:checked;9
+207;:current;9
+208;:default;9
+209;:defined;9
+210;:dir();9
+211;:disabled;9
+212;:empty;9
+213;:enabled;9
+214;:first;9
+215;:first-child;9
+216;:first-of-type;9
+217;:focus;9
+218;:focus-visible;9
+219;:focus-within;9
+220;:fullscreen;9
+221;:future;9
+222;:has();9
+223;:host;9
+224;:host-context();9
+225;:host();9
+226;:hover;9
+227;:in-range;9
+228;:indeterminate;9
+229;:invalid;9
+230;:is();9
+231;:lang();9
+232;:last-child;9
+233;:last-of-type;9
+234;:left;9
+235;:link;9
+236;:local-link;9
+237;:modal;9
+238;:muted;9
+239;:not();9
+240;:nth-child();9
+241;:nth-last-child();9
+242;:nth-last-of-type();9
+243;:nth-of-type();9
+244;:only-child;9
+245;:only-of-type;9
+246;:optional;9
+247;:out-of-range;9
+248;:past;9
+249;:paused;9
+250;:picture-in-picture;9
+251;:placeholder-shown;9
+252;:playing;9
+253;:popover-open;9
+254;:read-only;9
+255;:read-write;9
+256;:required;9
+257;:right;9
+258;:root;9
+259;:scope;9
+260;:seeking;9
+261;:stalled;9
+262;:state()Experimental;9
+263;:target;9
+264;:target-withinExperimental;9
+265;:user-invalid;9
+266;:user-valid;9
+267;:valid;9
+268;:visited;9
+269;:volume-locked;9
+270;:where();9
+271;::-moz-color-swatchNon-standard;10
+272;::-moz-focus-innerExperimental;10
+273;::-moz-list-bulletNon-standard;10
+274;::-moz-list-numberNon-standard;10
+275;::-moz-pageNon-standard;10
+276;::-moz-page-sequenceNon-standard;10
+277;::-moz-progress-barNon-standard;10
+278;::-moz-range-progressNon-standard;10
+279;::-moz-range-thumbNon-standard;10
+280;::-moz-range-trackNon-standard;10
+281;::-moz-scrolled-page-sequenceNon-standard;10
+282;::-webkit-inner-spin-buttonNon-standard;10
+283;::-webkit-meter-barNon-standard;10
+284;::-webkit-meter-even-less-good-valueNon-standard;10
+285;::-webkit-meter-inner-elementNon-standard;10
+286;::-webkit-meter-optimum-valueNon-standard;10
+287;::-webkit-meter-suboptimum-valueNon-standard;10
+288;::-webkit-progress-barNon-standard;10
+289;::-webkit-progress-inner-elementNon-standard;10
+290;::-webkit-progress-valueNon-standard;10
+291;::-webkit-scrollbarNon-standard;10
+292;::-webkit-search-cancel-buttonNon-standard;10
+293;::-webkit-search-results-buttonNon-standard;10
+294;::-webkit-slider-runnable-trackExperimental;10
+295;::-webkit-slider-thumbExperimental;10
+296;::after;10
+297;::backdrop;10
+298;::before;10
+299;::cue;10
+300;::cue-region;10
+301;::file-selector-button;10
+302;::first-letter;10
+303;::first-line;10
+304;::grammar-error;10
+305;::highlight();10
+306;::marker;10
+307;::part();10
+308;::placeholder;10
+309;::selection;10
+310;::slotted();10
+311;::spelling-error;10
+312;::target-textExperimental;10
+313;::view-transitionExperimental;10
+314;::view-transition-groupExperimental;10
+315;::view-transition-image-pairExperimental;10
+316;::view-transition-newExperimental;10
+317;::view-transition-oldExperimental;10
+318;@charset;11
+319;@color-profile;11
+320;@container;11
+321;@counter-style;11
+322;@documentNon-standardDeprecated;11
+323;@font-face;11
+324;@font-feature-values;11
+325;@font-palette-values;11
+326;@import;11
+327;@keyframes;11
+328;@layer;11
+329;@media;11
+330;@namespace;11
+331;@page;11
+332;@property;11
+333;@scope;11
+334;@starting-styleExperimental;11
+335;@supports;11
+336;abs();13
+337;acos();13
+338;asin();13
+339;atan();13
+340;atan2();13
+341;attr();13
+342;calc();13
+343;clamp();13
+344;cos();13
+345;counter();13
+346;counters();13
+347;cross-fade();13
+348;element()Experimental;13
+349;env();13
+350;exp();13
+351;fit-content();13
+352;hypot();13
+353;log();13
+354;max();13
+355;min();13
+356;minmax();13
+357;mod();13
+358;path();13
+359;pow();13
+360;ray();13
+361;rem();13
+362;repeat();13
+363;round();13
+364;sign();13
+365;sin();13
+366;sqrt();13
+367;symbols();13
+368;tan();13
+369;url();13
+370;var();13
+371;<absolute-size>;14
+372;<alpha-value>;14
+373;<angle>;14
+374;<angle-percentage>;14
+375;<basic-shape>;14
+376;<blend-mode>;14
+377;<box-edge>;14
+378;<calc-constant>;14
+379;<calc-sum>;14
+380;<color-interpolation-method>;14
+381;<color>;14
+382;<custom-ident>;14
+383;<dashed-ident>;14
+384;<dimension>;14
+385;<display-box>;14
+386;<display-inside>;14
+387;<display-internal>;14
+388;<display-legacy>;14
+389;<display-listitem>;14
+390;<display-outside>;14
+391;<easing-function>;14
+392;<filter-function>;14
+393;<flex>;14
+394;<frequency>;14
+395;<frequency-percentage>;14
+396;<generic-family>;14
+397;<gradient>;14
+398;<hex-color>;14
+399;<hue>;14
+400;<hue-interpolation-method>;14
+401;<ident>;14
+402;<image>;14
+403;<integer>;14
+404;<length>;14
+405;<length-percentage>;14
+406;<line-style>;14
+407;<named-color>;14
+408;<number>;14
+409;<overflow>;14
+410;<percentage>;14
+411;<position>;14
+412;<ratio>;14
+413;<relative-size>;14
+414;<resolution>;14
+415;<shape>Deprecated;14
+416;<string>;14
+417;<system-color>;14
+418;<time>;14
+419;<time-percentage>;14
+420;<transform-function>;14
+421;Pages;15
+422;Page folders;15
+423;Stack;16
+424;Grid;16
+425;Breakpoints;16
+426;Opacity;17
+427;Visibility;17
+428;Fill;17
+429;Overflow;17
+430;Color styles;18
+431;Light and dark mode;18
+432;Text styles;18
+433;Custom cursors;19
+434;Code overrides;20
+435;Custom components;20
+436;Custom component properties;20
+437;Package imports;20
+438;File imports;20
+439;Lint to;21
+440;Scroll to;21
+441;Basics;22
+442;Variables;22
+443;Variants;22
+444;Hover and active state;22
+445;CMS pages;23
+446;CMS lists;23
+447;Import csv;23
+448;Relational databases;23
+449;Basics;24
+450;CMS localization;24
+451;Transition effects;25
+452;Appear effects;25
+453;Scroll animation;25
+454;Figma copy paste;26
+455;Chrome extension;26
+456;Forms;27
+457;Icons;27
+458;Ticker;27
+459;Slideshow;27
+460;Carousel;27
+461;Code Block;27
+462;Creative components;27
+463;About Version Control;28
+464;A Short History of Git;28
+465;What is Git?;28
+466;The Command Line;28
+467;Installing Git;28
+468;First-Time Git Setup;28
+469;Getting Help;28
+470;Summary;28
+471;Getting a Git Repository;29
+472;Recording Changes to the Repository;29
+473;Viewing the Commit History;29
+474;Undoing Things;29
+475;Working with Remotes;29
+476;Tagging;29
+477;Git Aliases;29
+478;Summary;29
+479;Branches in a Nutshell;30
+480;Basic Branching and Merging;30
+481;Branch Management;30
+482;Branching Workflows;30
+483;Remote Branches;30
+484;Rebasing;30
+485;Summary;30
+486;Account Setup and Configuration;31
+487;Contributing to a Project;31
+488;Maintaining a Project;31
+489;Managing an organization;31
+490;Scripting GitHub;31
+491;Summary;31
+492;Revision Selection;32
+493;Interactive Staging;32
+494;Stashing and Cleaning;32
+495;Signing Your Work;32
+496;Searching;32
+497;Rewriting History;32
+498;Reset Demystified;32
+499;Advanced Merging;32
+500;Rerere;32
+501;Debugging with Git;32
+502;Submodules;32
+503;Bundling;32
+504;Replace;32
+505;Credential Storage;32
+506;Summary;32
+507;Git Configuration;33
+508;Git Attributes;33
+509;Git Hooks;33
+510;An Example Git-Enforced Policy;33
+511;Summary;33
+512;Git as a Client;34
+513;Migrating to Git;34
+514;Summary;34
+515;Plumbing and Porcelain;35
+516;Git Objects;35
+517;Git References;35
+518;Packfiles;35
+519;The Refspec;35
+520;Transfer Protocols;35
+521;Maintenance and Data Recovery;35
+522;Environment Variables;35
+523;Summary;35
+524;Plumbing and Porcelain;36
+525;Git Objects;36
+526;Git References;36
+527;Packfiles;36
+528;The Refspec;36
+529;Transfer Protocols;36
+530;Maintenance and Data Recovery;36
+531;Environment Variables;36
+532;Summary;36
+533;Command-line Git;37
+534;Libgit2;37
+535;JGit;37
+536;go-git;37
+537;Dulwich;37
+538;Setup and Config;38
+539;Getting and Creating Projects;38
+540;Basic Snapshotting;38
+541;Branching and Merging;38
+542;Sharing and Updating Projects;38
+543;Inspection and Comparison;38
+544;Debugging;38
+545;Patching;38
+546;Email;38
+547;External Systems;38
+548;Administration;38
+549;Plumbing Commands;38
+550;Migrations;39
+551;Account and profile;39
+552;Authentication;39
+553;Billing and payments;39
+554;Site policy;39
+555;Codespaces;40
+556;Repositories;40
+557;Pull requests;40
+558;GitHub Discussions;40
+559;GitHub Copilot;40
+560;GitHub Actions;41
+561;GitHub Packages;41
+562;GitHub Pages;41
+563;Code security;42
+564;Supply chain security;42
+565;Security advisories;42
+566;Dependabot;42
+567;Code scanning;42
+568;Secret scanning;42
+569;GitHub CLI;43
+570;GitHub Desktop;43
+571;GitHub Issues;44
+572;Projects;44
+573;Tasklists;44
+574;Search on GitHub;44
+575;Apps;45
+576;REST API;45
+577;GraphQL API;45
+578;Webhooks;45
+579;Organizations;46
+580;Enterprise administrators;46
+581;Building communities;47
+582;GitHub Sponsors;47
+583;GitHub Education;47
+584;GitHub Support;47
+585;Contribute to GitHub Docs;47
+586;Electron;48
+587;CodeQL;48
+588;npm;48
+589;Introduction to HTML;49
+590;Introduction to HTML overview;49
+591;Getting started with HTML;49
+592;What's in the head? Metadata in HTML;49
+593;HTML text fundamentals;49
+594;Creating hyperlinks;49
+595;Advanced text formatting;49
+596;Document and website structure;49
+597;Debugging HTML;49
+598;Assessment: Marking up a letter;49
+599;Assessment: Structuring a page of content;49
+600;Multimedia and embedding overview;50
+601;Images in HTML;50
+602;Video and audio content;50
+603;From object to iframe — other embedding technologies;50
+604;Adding vector graphics to the web;50
+605;Responsive images;50
+606;Assessment: Mozilla splash page;50
+607;HTML tables overview;51
+608;HTML table basics;51
+609;HTML table advanced features and accessibility;51
+610;Assessment: Structuring planet data;51
+611;<a>;52
+612;<abbr>;52
+613;<acronym> (Deprecated);52
+614;<address>;52
+615;<area>;52
+616;<article>;52
+617;<aside>;52
+618;<audio>;52
+619;<b>;52
+620;<base>;52
+621;<bdi>;52
+622;<bdo>;52
+623;<big> (Deprecated);52
+624;<blockquote>;52
+625;<body>;52
+626;<br>;52
+627;<button>;52
+628;<canvas>;52
+629;<caption>;52
+630;<center> (Deprecated);52
+631;<cite>;52
+632;<code>;52
+633;<col>;52
+634;<colgroup>;52
+635;<data>;52
+636;<datalist>;52
+637;<dd>;52
+638;<del>;52
+639;<details>;52
+640;<dfn>;52
+641;<dialog>;52
+642;<dir> (Deprecated);52
+643;<div>;52
+644;<dl>;52
+645;<dt>;52
+646;<em>;52
+647;<embed>;52
+648;<fencedframe> (Experimental);52
+649;<fieldset>;52
+650;<figcaption>;52
+651;<figure>;52
+652;<font> (Deprecated);52
+653;<footer>;52
+654;<form>;52
+655;<frame> (Deprecated);52
+656;<frameset> (Deprecated);52
+657;<h1>;52
+658;<head>;52
+659;<header>;52
+660;<hgroup>;52
+661;<hr>;52
+662;<html>;52
+663;<i>;52
+664;<iframe>;52
+665;<img>;52
+666;<input>;52
+667;<ins>;52
+668;<kbd>;52
+669;<label>;52
+670;<legend>;52
+671;<li>;52
+672;<link>;52
+673;<main>;52
+674;<map>;52
+675;<mark>;52
+676;<marquee> (Deprecated);52
+677;<menu>;52
+678;<menuitem> (Non-standard, Deprecated);52
+679;<meta>;52
+680;<meter>;52
+681;<nav>;52
+682;<nobr> (Deprecated);52
+683;<noembed> (Deprecated);52
+684;<noframes> (Deprecated);52
+685;<noscript>;52
+686;<object>;52
+687;<ol>;52
+688;<optgroup>;52
+689;<option>;52
+690;<output>;52
+691;<p>;52
+692;<param> (Deprecated);52
+693;<picture>;52
+694;<plaintext> (Deprecated);52
+695;<portal> (Experimental);52
+696;<pre>;52
+697;<progress>;52
+698;<q>;52
+699;<rb> (Deprecated);52
+700;<rp>;52
+701;<rt>;52
+702;<rtc> (Deprecated);52
+703;<ruby>;52
+704;<s>;52
+705;<samp>;52
+706;<script>;52
+707;<search>;52
+708;<section>;52
+709;<select>;52
+710;<slot>;52
+711;<small>;52
+712;<source>;52
+713;<span>;52
+714;<strike> (Deprecated);52
+715;<strong>;52
+716;<style>;52
+717;<sub>;52
+718;<summary>;52
+719;<sup>;52
+720;<table>;52
+721;<tbody>;52
+722;<td>;52
+723;<template>;52
+724;<textarea>;52
+725;<tfoot>;52
+726;<th>;52
+727;<thead>;52
+728;<time>;52
+729;<title>;52
+730;<tr>;52
+731;<track>;52
+732;<tt> (Deprecated);52
+733;<u>;52
+734;<ul>;52
+735;<var>;52
+736;<video>;52
+737;<wbr>;52
+738;<xmp> (Deprecated);52
+739;accesskey;53
+740;autocapitalize;53
+741;autofocus;53
+742;class;53
+743;contenteditable;53
+744;contextmenu (Non-standard, Deprecated);53
+745;data-*;53
+746;dir;53
+747;draggable;53
+748;enterkeyhint;53
+749;exportparts;53
+750;hidden;53
+751;id;53
+752;inert;53
+753;inputmode;53
+754;is;53
+755;itemid;53
+756;itemprop;53
+757;itemref;53
+758;itemscope;53
+759;itemtype;53
+760;lang;53
+761;nonce;53
+762;part;53
+763;popover;53
+764;slot;53
+765;spellcheck;53
+766;style;53
+767;tabindex;53
+768;title;53
+769;translate;53
+770;virtualkeyboardpolicy;53
+771;Experimental;53
+772;Attributes;53
+773;accept;53
+774;autocomplete;53
+775;capture;53
+776;crossorigin;53
+777;dirname;53
+778;disabled;53
+779;elementtiming;53
+780;for;53
+781;max;53
+782;maxlength;53
+783;min;53
+784;minlength;53
+785;multiple;53
+786;pattern;53
+787;placeholder;53
+788;readonly;53
+789;rel;53
+790;required;53
+791;size;53
+792;step;53
+793;<input type='button'>;54
+794;<input type='checkbox'>;54
+795;<input type='color'>;54
+796;<input type='date'>;54
+797;<input type='datetime-local'>;54
+798;<input type='email'>;54
+799;<input type='file'>;54
+800;<input type='hidden'>;54
+801;<input type='image'>;54
+802;<input type='month'>;54
+803;<input type='number'>;54
+804;<input type='password'>;54
+805;<input type='radio'>;54
+806;<input type='range'>;54
+807;<input type='reset'>;54
+808;<input type='search'>;54
+809;<input type='submit'>;54
+810;<input type='tel'>;54
+811;<input type='text'>;54
+812;<input type='time'>;54
+813;<input type='url'>;54
+814;<input type='week'>;54
+815;Content categories;55
+816;Block-level elements;55
+817;Inline elements;55
+818;Quirks Mode and Standards Mode;55
+819;Date and time formats used in HTML;55
+820;Constraint validation;55
+821;Microdata;55
+822;Microformats;55
+823;Viewport meta tag;55
+824;Allowing cross-origin use of images and canvas;55
+825;Installation;56
+826;Project Structure;56
+827;Defining Routes;57
+828;Pages and Layouts;57
+829;Linking and Navigating;57
+830;Loading UI and Streaming;57
+831;Error Handling;57
+832;Redirecting;57
+833;Route Groups;57
+834;Project Organization;57
+835;Dynamic Routes;57
+836;Parallel Routes;57
+837;Intercepting Routes;57
+838;Route Handlers;57
+839;Middleware;57
+840;Internationalization;57
+841;Fetching, Caching, and Revalidating;58
+842;Server Actions and Mutations;58
+843;Data Fetching Patterns and Best Practices;58
+844;Server Components;59
+845;Client Components;59
+846;Composition Patterns;59
+847;Edge and Node.js Runtimes;59
+848;CSS Modules;61
+849;Tailwind CSS;61
+850;CSS-in-JS;61
+851;Sass;61
+852;Images;62
+853;Videos;62
+854;Fonts;62
+855;Metadata;62
+856;Scripts;62
+857;Bundle Analyzer;62
+858;Lazy Loading;62
+859;Analytics;62
+860;Instrumentation;62
+861;OpenTelemetry;62
+862;Static Assets;62
+863;Third Party Libraries;62
+864;TypeScript;63
+865;ESLint;63
+866;Environment Variables;63
+867;Absolute Imports and Module Path Aliases;63
+868;MDX;63
+869;src Directory;63
+870;Draft Mode;63
+871;Content Security Policy;63
+872;Testing;63
+873;Vitest;63
+874;Jest;63
+875;Playwright;63
+876;Cypress;63
+877;Production Checklist;65
+878;Static Exports;65
+879;Codemods;66
+880;App Router Migration;66
+881;Version 14;66
+882;Migrating from Vite;66
+883;Migrating from Create React App;66
+884;Font;67
+885;<Image>;67
+886;<Link>;67
+887;<Script>;67
+888;default.js;68
+889;error.js;68
+890;instrumentation.js;68
+891;layout.js;68
+892;loading.js;68
+893;middleware.js;68
+894;not-found.js;68
+895;page.js;68
+896;route.js;68
+897;Route Segment Config;68
+898;template.js;68
+899;Metadata Files;68
+900;cookies;69
+901;draftMode;69
+902;fetch;69
+903;generateImageMetadata;69
+904;generateMetadata;69
+905;generateSitemaps;69
+906;generateStaticParams;69
+907;generateViewport;69
+908;headers;69
+909;ImageResponse;69
+910;NextRequest;69
+911;NextResponse;69
+912;notFound;69
+913;permanentRedirect;69
+914;redirect;69
+915;revalidatePath;69
+916;revalidateTag;69
+917;unstable_cache;69
+918;unstable_noStore;69
+919;useParams;69
+920;usePathname;69
+921;useReportWebVitals;69
+922;useRouter;69
+923;useSearchParams;69
+924;useSelectedLayoutSegment;69
+925;useSelectedLayoutSegments;69
+926;userAgent;69
+927;appDir;70
+928;assetPrefix;70
+929;basePath;70
+930;compress;70
+931;devIndicators;70
+932;distDir;70
+933;env;70
+934;eslint;70
+935;exportPathMap;70
+936;generateBuildId;70
+937;generateEtags;70
+938;headers;70
+939;httpAgentOptions;70
+940;images;70
+941;cacheHandler;70
+942;instrumentationHook;70
+943;logging;70
+944;mdxRs;70
+945;onDemandEntries;70
+946;optimizePackageImports;70
+947;output;70
+948;pageExtensions;70
+949;Partial Prerendering (experimental);70
+950;poweredByHeader;70
+951;productionBrowserSourceMaps;70
+952;reactStrictMode;70
+953;redirects;70
+954;rewrites;70
+955;serverActions;70
+956;serverComponentsExternalPackages;70
+957;trailingSlash;70
+958;transpilePackages;70
+959;turbo;70
+960;typedRoutes;70
+961;typescript;70
+962;urlImports;70
+963;webpack;70
+964;webVitalsAttribution;70
+965;create-next-app;71
+966;Edge Runtime;71
+967;Next.js CLI;71
+968;Writer;72
+969;Autofill databases;72
+970;Connecting calendar with database;73
+971;Notion templates;75
+972;Template marketplaces;75
+973;Database page;78
+974;Database view;78
+975;Links, backlinks;79
+976;Buttons;79
+977;Synced blocks;79
+978;Math equations;79
+979;Download and install Obsidian;82
+980;Create a vault;82
+981;Create your first note;82
+982;Link notes;82
+983;Sync your notes across devices;83
+984;Update Obsidian;83
+985;Glossary;83
+986;Use the mobile app;83
+987;Import notes;83
+988;Import from Apple Notes;83
+989;Import from Bear;83
+990;Import from Evernote;83
+991;Import from Google Keep;83
+992;Import from Microsoft OneNote;83
+993;Import from Notion;83
+994;Import from Roam Research;83
+995;Import HTML files;83
+996;Import Markdown files;83
+997;Import Zettelkasten notes;83
+998;Appearance;84
+999;Drag and drop;84
+1000;Hotkeys;84
+1001;Language settings;84
+1002;Pop-out windows;84
+1003;Ribbon;84
+1004;Sidebar;84
+1005;Status bar;84
+1006;Tabs;84
+1007;Workspace;84
+1008;Basic formatting syntax;85
+1009;Advanced formatting syntax;85
+1010;Obsidian Flavored Markdown;85
+1011;Tags;85
+1012;Attachments;85
+1013;Callouts;85
+1014;Folding;85
+1015;Multiple cursors;85
+1016;Properties;85
+1017;Edit and preview Markdown;85
+1018;Editing shortcuts;85
+1019;Embed web pages;85
+1020;HTML content;85
+1021;Internal links;86
+1022;Aliases;86
+1023;Embed files;86
+1024;Accepted file formats;87
+1025;Configuration folder;87
+1026;How Obsidian stores data;87
+1027;Manage notes;87
+1028;Manage vaults;87
+1029;Symbolic links and junctions;87
+1030;Core plugins;88
+1031;Audio recorder;88
+1032;Backlinks;88
+1033;Bookmarks;88
+1034;Canvas;88
+1035;Command palette;88
+1036;Daily notes;88
+1037;File explorer;88
+1038;File recovery;88
+1039;Format converter;88
+1040;Graph view;88
+1041;Importer;88
+1042;Note composer;88
+1043;Outgoing links;88
+1044;Outline;88
+1045;Page preview;88
+1046;Properties view;88
+1047;Quick switcher;88
+1048;Random note;88
+1049;Search;88
+1050;Slash commands;88
+1051;Slides;88
+1052;Templates;88
+1053;Unique note creator;88
+1054;Word count;88
+1055;Workspaces;88
+1056;Tags view;88
+1057;Introduction to Obsidian Publish;89
+1058;Publish and unpublish notes;89
+1059;Manage sites;89
+1060;Customize your site;89
+1061;Security and privacy;89
+1062;Set up a custom domain;89
+1063;Set up Google Analytics;89
+1064;Set up Obsidian Publish;89
+1065;Social media link previews;89
+1066;Collaborate on a Publish site;89
+1067;Media files;89
+1068;Publish limitations;89
+1069;Redirect old notes;89
+1070;Introduction to Obsidian Sync;90
+1071;Set up Obsidian Sync;90
+1072;Set up Obsidian Sync on another device;90
+1073;Select files and settings to sync;90
+1074;Local and remote vaults;90
+1075;Security and privacy;90
+1076;Troubleshoot Obsidian Sync;90
+1077;Version history;90
+1078;Back up your vault;90
+1079;Collaborate on a shared vault;90
+1080;Plans and storage limits;90
+1081;Sync limitations;90
+1082;Community plugins;91
+1083;Themes;91
+1084;CSS snippets;91
+1085;Plugin security;91
+1086;Obsidian URI;91
+1087;Introduction;92
+1088;Prisma ORM in your stack;92
+1089;Databases;92
+1090;Overview;93
+1091;Data model;93
+1092;Introspection;93
+1093;PostgreSQL extensionsPreview;93
+1094;Setup & configuration;94
+1095;Queries;94
+1096;Fields & types;94
+1097;Extensions;94
+1098;Type safety;94
+1099;Testing;94
+1100;Deployment;94
+1101;Observability & logging;94
+1102;Debugging & troubleshooting;94
+1103;Getting started;95
+1104;Understanding Prisma Migrate;95
+1105;Workflows;95
+1106;Prisma CLI;96
+1107;Prisma Studio;96
+1108;REFERENCE;96
+1109;Prisma Client API;96
+1110;Prisma Schema;96
+1111;Prisma CLI;96
+1112;Errors;96
+1113;Environment variables;96
+1114;Database features matrix;96
+1115;Supported databases;96
+1116;Connection URLs;96
+1117;System requirements;96
+1118;Preview features;96
+1119;Under the hood;97
+1120;Upgrade guides;97
+1121;Comparing Prisma ORM;97
+1122;Migrate to Prisma ORM;97
+1123;Development environment;97
+1124;Help & troubleshooting;97
+1125;ORM releases and maturity levels;97
+1126;use ;99
+1127;useCallback;99
+1128;useContext;99
+1129;useDebugValue;99
+1130;useDeferredValue;99
+1131;useEffect;99
+1132;useId;99
+1133;useImperativeHandle;99
+1134;useInsertionEffect;99
+1135;useLayoutEffect;99
+1136;useMemo;99
+1137;useOptimistic ;99
+1138;useReducer;99
+1139;useRef;99
+1140;useState;99
+1141;useSyncExternalStore;99
+1142;useTransition;99
+1143;<Fragment> (<>);100
+1144;<Profiler>;100
+1145;<StrictMode>;100
+1146;<Suspense>;100
+1147;cache ;101
+1148;createContext;101
+1149;forwardRef;101
+1150;lazy;101
+1151;memo;101
+1152;startTransition;101
+1153;experimental_taintObjectReference ;101
+1154;experimental_taintUniqueValue ;101
+1155;Installation;102
+1156;Editor Setup;102
+1157;Using with Preprocessors;102
+1158;Optimizing for Production;102
+1159;Browser Support;102
+1160;Upgrade Guide;102
+1161;Utility-First Fundamentals;103
+1162;Hover, Focus, and Other States;103
+1163;Responsive Design;103
+1164;Dark Mode;103
+1165;Reusing Styles;103
+1166;Adding Custom Styles;103
+1167;Functions & Directives;103
+1168;Configuration;104
+1169;Content;104
+1170;Theme;104
+1171;Screens;104
+1172;Colors;104
+1173;Spacing;104
+1174;Plugins;104
+1175;Presets;104
+1176;Preflight;105
+1177;Aspect Ratio;106
+1178;Container;106
+1179;Columns;106
+1180;Break After;106
+1181;Break Before;106
+1182;Break Inside;106
+1183;Box Decoration Break;106
+1184;Box Sizing;106
+1185;Display;106
+1186;Floats;106
+1187;Clear;106
+1188;Isolation;106
+1189;Object Fit;106
+1190;Object Position;106
+1191;Overflow;106
+1192;Overscroll Behavior;106
+1193;Position;106
+1194;Top / Right / Bottom / Left;106
+1195;Visibility;106
+1196;Z-Index;106
+1197;Flex Basis;107
+1198;Flex Direction;107
+1199;Flex Wrap;107
+1200;Flex;107
+1201;Flex Grow;107
+1202;Flex Shrink;107
+1203;Order;107
+1204;Grid Template Columns;107
+1205;Grid Column Start / End;107
+1206;Grid Template Rows;107
+1207;Grid Row Start / End;107
+1208;Grid Auto Flow;107
+1209;Grid Auto Columns;107
+1210;Grid Auto Rows;107
+1211;Gap;107
+1212;Justify Content;107
+1213;Justify Items;107
+1214;Justify Self;107
+1215;Align Content;107
+1216;Align Items;107
+1217;Align Self;107
+1218;Place Content;107
+1219;Place Items;107
+1220;Place Self;107
+1221;Padding;108
+1222;Margin;108
+1223;Space Between;108
+1224;Width;109
+1225;Min-Width;109
+1226;Max-Width;109
+1227;Height;109
+1228;Min-Height;109
+1229;Max-Height;109
+1230;Size;109
+1231;Font Family;110
+1232;Font Size;110
+1233;Font Smoothing;110
+1234;Font Style;110
+1235;Font Weight;110
+1236;Font Variant Numeric;110
+1237;Letter Spacing;110
+1238;Line Clamp;110
+1239;Line Height;110
+1240;List Style Image;110
+1241;List Style Position;110
+1242;List Style Type;110
+1243;Text Align;110
+1244;Text Color;110
+1245;Text Decoration;110
+1246;Text Decoration Color;110
+1247;Text Decoration Style;110
+1248;Text Decoration Thickness;110
+1249;Text Underline Offset;110
+1250;Text Transform;110
+1251;Text Overflow;110
+1252;Text Wrap;110
+1253;Text Indent;110
+1254;Vertical Align;110
+1255;Whitespace;110
+1256;Word Break;110
+1257;Hyphens;110
+1258;Content;110
+1259;Background Attachment;111
+1260;Background Clip;111
+1261;Background Color;111
+1262;Background Origin;111
+1263;Background Position;111
+1264;Background Repeat;111
+1265;Background Size;111
+1266;Background Image;111
+1267;Gradient Color Stops;111
+1268;Border Radius;112
+1269;Border Width;112
+1270;Border Color;112
+1271;Border Style;112
+1272;Divide Width;112
+1273;Divide Color;112
+1274;Divide Style;112
+1275;Outline Width;112
+1276;Outline Color;112
+1277;Outline Style;112
+1278;Outline Offset;112
+1279;Ring Width;112
+1280;Ring Color;112
+1281;Ring Offset Width;112
+1282;Ring Offset Color;112
+1283;Box Shadow;113
+1284;Box Shadow Color;113
+1285;Opacity;113
+1286;Mix Blend Mode;113
+1287;Background Blend Mode;113
+1288;Blur;114
+1289;Brightness;114
+1290;Contrast;114
+1291;Drop Shadow;114
+1292;Grayscale;114
+1293;Hue Rotate;114
+1294;Invert;114
+1295;Saturate;114
+1296;Sepia;114
+1297;Backdrop Blur;114
+1298;Backdrop Brightness;114
+1299;Backdrop Contrast;114
+1300;Backdrop Grayscale;114
+1301;Backdrop Hue Rotate;114
+1302;Backdrop Invert;114
+1303;Backdrop Opacity;114
+1304;Backdrop Saturate;114
+1305;Backdrop Sepia;114
+1306;Border Collapse;115
+1307;Border Spacing;115
+1308;Table Layout;115
+1309;Caption Side;115
+1310;Transition Property;116
+1311;Transition Duration;116
+1312;Transition Timing Function;116
+1313;Transition Delay;116
+1314;Animation;116
+1315;Scale;117
+1316;Rotate;117
+1317;Translate;117
+1318;Skew;117
+1319;Transform Origin;117
+1320;Accent Color;118
+1321;Appearance;118
+1322;Cursor;118
+1323;Caret Color;118
+1324;Pointer Events;118
+1325;Resize;118
+1326;Scroll Behavior;118
+1327;Scroll Margin;118
+1328;Scroll Padding;118
+1329;Scroll Snap Align;118
+1330;Scroll Snap Stop;118
+1331;Scroll Snap Type;118
+1332;Touch Action;118
+1333;User Select;118
+1334;Will Change;118
+1335;Fill;119
+1336;Stroke;119
+1337;Stroke Width;119
+1338;Screen Readers;120
+1339;Forced Color Adjust;120
+1340;Typography;121
+1341;Forms;121
+1342;Aspect Ratio;121
+1343;Container Queries;121
+1344;Project Dashboard;124
+1345;Monorepos;124
+1346;Environment Variables;124
+1347;vercel.json;124
+1348;Git Configuration;124
+1349;Global Configuration;124
+1350;Git Integrations;125
+1351;Environments;125
+1352;Generated URLs;125
+1353;Preview Deployments;125
+1354;Manage Deployments;125
+1355;Deploy Hooks;125
+1356;Webhooks;125
+1357;Deploy Button;125

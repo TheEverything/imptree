@@ -1,13 +1,162 @@
 -- Nextjs
 34
 https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg
-- Basics
-Server-side vs Client-side
-Project strucure and naming conventions
+- Getting Started
+Installation
+Project Structure
 - Routing
-- Data fetching
+Defining Routes
+Pages and Layouts
+Linking and Navigating
+Loading UI and Streaming
+Error Handling
+Redirecting
+Route Groups
+Project Organization
+Dynamic Routes
+Parallel Routes
+Intercepting Routes
+Route Handlers
+Middleware
+Internationalization
+- Data Fetching
+Fetching, Caching, and Revalidating
+Server Actions and Mutations
+Data Fetching Patterns and Best Practices
 - Rendering
-- Api routes
-- Rendering Images
-Image component
-Image render options
+Server Components
+Client Components
+Composition Patterns
+Edge and Node.js Runtimes
+- Caching
+- Styling
+CSS Modules
+Tailwind CSS
+CSS-in-JS
+Sass
+- Optimizing
+Images
+Videos
+Fonts
+Metadata
+Scripts
+Bundle Analyzer
+Lazy Loading
+Analytics
+Instrumentation
+OpenTelemetry
+Static Assets
+Third Party Libraries
+- Configuring
+TypeScript
+ESLint
+Environment Variables
+Absolute Imports and Module Path Aliases
+MDX
+src Directory
+Draft Mode
+Content Security Policy
+Testing
+Vitest
+Jest
+Playwright
+Cypress
+- Authentication
+- Deploying
+Production Checklist
+Static Exports
+- Upgrading
+Codemods
+App Router Migration
+Version 14
+Migrating from Vite
+Migrating from Create React App
+- Components
+Font
+<Image>
+<Link>
+<Script>
+- File Conventions
+default.js
+error.js
+instrumentation.js
+layout.js
+loading.js
+middleware.js
+not-found.js
+page.js
+route.js
+Route Segment Config
+template.js
+Metadata Files
+- Functions
+cookies
+draftMode
+fetch
+generateImageMetadata
+generateMetadata
+generateSitemaps
+generateStaticParams
+generateViewport
+headers
+ImageResponse
+NextRequest
+NextResponse
+notFound
+permanentRedirect
+redirect
+revalidatePath
+revalidateTag
+unstable_cache
+unstable_noStore
+useParams
+usePathname
+useReportWebVitals
+useRouter
+useSearchParams
+useSelectedLayoutSegment
+useSelectedLayoutSegments
+userAgent
+- next.config.js Options
+appDir
+assetPrefix
+basePath
+compress
+devIndicators
+distDir
+env
+eslint
+exportPathMap
+generateBuildId
+generateEtags
+headers
+httpAgentOptions
+images
+cacheHandler
+instrumentationHook
+logging
+mdxRs
+onDemandEntries
+optimizePackageImports
+output
+pageExtensions
+Partial Prerendering (experimental)
+poweredByHeader
+productionBrowserSourceMaps
+reactStrictMode
+redirects
+rewrites
+serverActions
+serverComponentsExternalPackages
+trailingSlash
+transpilePackages
+turbo
+typedRoutes
+typescript
+urlImports
+webpack
+webVitalsAttribution
+- CLI
+create-next-app
+Edge Runtime
+Next.js CLI
