@@ -1,0 +1,121 @@
+-- Obsidian
+87
+https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg
+- Getting started
+Download and install Obsidian
+Create a vault
+Create your first note
+Link notes
+- Import notes
+Sync your notes across devices
+Update Obsidian
+Glossary
+Use the mobile app
+Import notes
+Import from Apple Notes
+Import from Bear
+Import from Evernote
+Import from Google Keep
+Import from Microsoft OneNote
+Import from Notion
+Import from Roam Research
+Import HTML files
+Import Markdown files
+Import Zettelkasten notes
+- User interface
+Appearance
+Drag and drop
+Hotkeys
+Language settings
+Pop-out windows
+Ribbon
+Sidebar
+Status bar
+Tabs
+Workspace
+- Editing and formatting
+Basic formatting syntax
+Advanced formatting syntax
+Obsidian Flavored Markdown
+Tags
+Attachments
+Callouts
+Folding
+Multiple cursors
+Properties
+Edit and preview Markdown
+Editing shortcuts
+Embed web pages
+HTML content
+- Linking notes and files
+Internal links
+Aliases
+Embed files
+- Files and folders
+Accepted file formats
+Configuration folder
+How Obsidian stores data
+Manage notes
+Manage vaults
+Symbolic links and junctions
+- Plugins
+Core plugins
+Audio recorder
+Backlinks
+Bookmarks
+Canvas
+Command palette
+Daily notes
+File explorer
+File recovery
+Format converter
+Graph view
+Importer
+Note composer
+Outgoing links
+Outline
+Page preview
+Properties view
+Quick switcher
+Random note
+Search
+Slash commands
+Slides
+Templates
+Unique note creator
+Word count
+Workspaces
+Tags view
+- Obsidian Publish
+Introduction to Obsidian Publish
+Publish and unpublish notes
+Manage sites
+Customize your site
+Security and privacy
+Set up a custom domain
+Set up Google Analytics
+Set up Obsidian Publish
+Social media link previews
+Collaborate on a Publish site
+Media files
+Publish limitations
+Redirect old notes
+- Obsidian Sync
+Introduction to Obsidian Sync
+Set up Obsidian Sync
+Set up Obsidian Sync on another device
+Select files and settings to sync
+Local and remote vaults
+Security and privacy
+Troubleshoot Obsidian Sync
+Version history
+Back up your vault
+Collaborate on a shared vault
+Plans and storage limits
+Sync limitations
+- Extending Obsidian
+Community plugins
+Themes
+CSS snippets
+Plugin security
+Obsidian URI

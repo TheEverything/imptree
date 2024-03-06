@@ -1,98 +1,98 @@
 id;name;skillId
-1;Getting Started;1
-2;Git Basics;1
-3;Git Branching;1
-4;GitHub;1
-5;Git Tools;1
-6;Customizing Git;1
-7;Git and Other Systems;1
-8;Git Internals;1
-9;Git in Other Environments ;1
-10;Embedding Git in your Applications;1
-11;Git Commands (Appendix);1
-12;Get started;2
-13;Collaborative coding;2
-14;CI/CD and DevOps;2
-15;Security;2
-16;Client apps;2
-17;Project management;2
-18;Developers;2
-19;Enterprise and Teams;2
-20;Community;2
-21;More docs (Related Skills);2
-22;Notion AI;3
-23;Notion Calendar;3
-24;Workspaces;3
-25;Using templates;3
-26;Notion API;3
-27;Block and markdown logic;3
-28;Databases;3
-29;Content blocks;3
-30;Formulas;3
-31;Collabration & Publishing;3
-32;Workflow;4
-33;Layout;4
-34;Properties;4
-35;Assets;4
-36;Extra Styling;4
-37;Custom code;4
-38;Navigation;4
-39;Components;4
-40;CMS;4
-41;Localization;4
-42;Effects;4
-43;Import;4
-44;Premade components;4
-45;Components;5
-46;Hooks;5
-47;Basics;6
-48;Routing;6
-49;Data fetching;6
-50;Rendering;6
-51;Api routes;6
-52;Rendering Images;6
-53;Components;7
-54;Organizations;7
-55;Getting Started;10
-56;Core Concepts;10
-57;Customization;10
-58;Base Styles;10
-59;Layout;10
-60;Flexbox & Grid;10
-61;Spacing;10
-62;Sizing;10
-63;Typography;10
-64;Backgrounds;10
-65;Borders;10
-66;Effects;10
-67;Filters;10
-68;Tables;10
-69;Transitions & Animation;10
-70;Transforms;10
-71;Interactivity;10
-72;SVG;10
-73;Accessibility;10
-74;Official Plugins;10
-75;OVERVIEW;11
-76;PRISMA SCHEMA;11
-77;PRISMA CLIENT;11
-78;PRISMA MIGRATE;11
-79;TOOLS;11
-80;MORE;11
-81;Getting started;12
-82;Import notes;12
-83;User interface;12
-84;Editing and formatting;12
-85;Linking notes and files;12
-86;Files and folders;12
-87;Plugins;12
-88;Obsidian Publish;12
-89;Obsidian Sync;12
-90;Extending Obsidian;12
-91;HTML basics;13
-92;Multimedia and embedding;13
-93;HTML tables;13
-94;HTML elements;13
-95;Global attributes;13
-96;<input> types;13
-97;Guides;13
+1;Components;1
+2;Organizations;1
+3;Workflow;3
+4;Layout;3
+5;Properties;3
+6;Assets;3
+7;Extra Styling;3
+8;Custom code;3
+9;Navigation;3
+10;Components;3
+11;CMS;3
+12;Localization;3
+13;Effects;3
+14;Import;3
+15;Premade components;3
+16;Getting Started;4
+17;Git Basics;4
+18;Git Branching;4
+19;GitHub;4
+20;Git Tools;4
+21;Customizing Git;4
+22;Git and Other Systems;4
+23;Git Internals;4
+24;Git in Other Environments ;4
+25;Embedding Git in your Applications;4
+26;Git Commands (Appendix);4
+27;Get started;5
+28;Collaborative coding;5
+29;CI/CD and DevOps;5
+30;Security;5
+31;Client apps;5
+32;Project management;5
+33;Developers;5
+34;Enterprise and Teams;5
+35;Community;5
+36;More docs (Related Skills);5
+37;HTML basics;6
+38;Multimedia and embedding;6
+39;HTML tables;6
+40;HTML elements;6
+41;Global attributes;6
+42;<input> types;6
+43;Guides;6
+44;Basics;8
+45;Routing;8
+46;Data fetching;8
+47;Rendering;8
+48;Api routes;8
+49;Rendering Images;8
+50;Notion AI;9
+51;Notion Calendar;9
+52;Workspaces;9
+53;Using templates;9
+54;Notion API;9
+55;Block and markdown logic;9
+56;Databases;9
+57;Content blocks;9
+58;Formulas;9
+59;Collabration & Publishing;9
+60;Getting started;10
+61;Import notes;10
+62;User interface;10
+63;Editing and formatting;10
+64;Linking notes and files;10
+65;Files and folders;10
+66;Plugins;10
+67;Obsidian Publish;10
+68;Obsidian Sync;10
+69;Extending Obsidian;10
+70;OVERVIEW;11
+71;PRISMA SCHEMA;11
+72;PRISMA CLIENT;11
+73;PRISMA MIGRATE;11
+74;TOOLS;11
+75;MORE;11
+76;Components;12
+77;Hooks;12
+78;Getting Started;13
+79;Core Concepts;13
+80;Customization;13
+81;Base Styles;13
+82;Layout;13
+83;Flexbox & Grid;13
+84;Spacing;13
+85;Sizing;13
+86;Typography;13
+87;Backgrounds;13
+88;Borders;13
+89;Effects;13
+90;Filters;13
+91;Tables;13
+92;Transitions & Animation;13
+93;Transforms;13
+94;Interactivity;13
+95;SVG;13
+96;Accessibility;13
+97;Official Plugins;13

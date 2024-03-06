@@ -1,0 +1,101 @@
+-- Git
+98
+https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg
+- Getting Started
+About Version Control
+A Short History of Git
+What is Git?
+The Command Line
+Installing Git
+First-Time Git Setup
+Getting Help
+Summary
+- Git Basics
+Getting a Git Repository
+Recording Changes to the Repository
+Viewing the Commit History
+Undoing Things
+Working with Remotes
+Tagging
+Git Aliases
+Summary
+- Git Branching
+Branches in a Nutshell
+Basic Branching and Merging
+Branch Management
+Branching Workflows
+Remote Branches
+Rebasing
+Summary
+- GitHub
+Account Setup and Configuration
+Contributing to a Project
+Maintaining a Project
+Managing an organization
+Scripting GitHub
+Summary
+- Git Tools
+Revision Selection
+Interactive Staging
+Stashing and Cleaning
+Signing Your Work
+Searching
+Rewriting History
+Reset Demystified
+Advanced Merging
+Rerere
+Debugging with Git
+Submodules
+Bundling
+Replace
+Credential Storage
+Summary
+- Customizing Git
+Git Configuration
+Git Attributes
+Git Hooks
+An Example Git-Enforced Policy
+Summary
+- Git and Other Systems
+Git as a Client
+Migrating to Git
+Summary
+- Git Internals
+Plumbing and Porcelain
+Git Objects
+Git References
+Packfiles
+The Refspec
+Transfer Protocols
+Maintenance and Data Recovery
+Environment Variables
+Summary
+- Git in Other Environments 
+Plumbing and Porcelain
+Git Objects
+Git References
+Packfiles
+The Refspec
+Transfer Protocols
+Maintenance and Data Recovery
+Environment Variables
+Summary
+- Embedding Git in your Applications
+Command-line Git
+Libgit2
+JGit
+go-git
+Dulwich
+- Git Commands (Appendix)
+Setup and Config
+Getting and Creating Projects
+Basic Snapshotting
+Branching and Merging
+Sharing and Updating Projects
+Inspection and Comparison
+Debugging
+Patching
+Email
+External Systems
+Administration
+Plumbing Commands

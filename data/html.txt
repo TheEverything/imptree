@@ -1,0 +1,247 @@
+
+-- HTML
+87
+https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg
+- HTML basics
+Introduction to HTML
+Introduction to HTML overview
+Getting started with HTML
+What's in the head? Metadata in HTML
+HTML text fundamentals
+Creating hyperlinks
+Advanced text formatting
+Document and website structure
+Debugging HTML
+Assessment: Marking up a letter
+Assessment: Structuring a page of content
+- Multimedia and embedding
+Multimedia and embedding overview
+Images in HTML
+Video and audio content
+From object to iframe — other embedding technologies
+Adding vector graphics to the web
+Responsive images
+Assessment: Mozilla splash page
+- HTML tables
+HTML tables overview
+HTML table basics
+HTML table advanced features and accessibility
+Assessment: Structuring planet data
+- HTML elements
+<a>
+<abbr>
+<acronym> (Deprecated)
+<address>
+<area>
+<article>
+<aside>
+<audio>
+<b>
+<base>
+<bdi>
+<bdo>
+<big> (Deprecated)
+<blockquote>
+<body>
+<br>
+<button>
+<canvas>
+<caption>
+<center> (Deprecated)
+<cite>
+<code>
+<col>
+<colgroup>
+<data>
+<datalist>
+<dd>
+<del>
+<details>
+<dfn>
+<dialog>
+<dir> (Deprecated)
+<div>
+<dl>
+<dt>
+<em>
+<embed>
+<fencedframe> (Experimental)
+<fieldset>
+<figcaption>
+<figure>
+<font> (Deprecated)
+<footer>
+<form>
+<frame> (Deprecated)
+<frameset> (Deprecated)
+<h1>
+<head>
+<header>
+<hgroup>
+<hr>
+<html>
+<i>
+<iframe>
+<img>
+<input>
+<ins>
+<kbd>
+<label>
+<legend>
+<li>
+<link>
+<main>
+<map>
+<mark>
+<marquee> (Deprecated)
+<menu>
+<menuitem> (Non-standard, Deprecated)
+<meta>
+<meter>
+<nav>
+<nobr> (Deprecated)
+<noembed> (Deprecated)
+<noframes> (Deprecated)
+<noscript>
+<object>
+<ol>
+<optgroup>
+<option>
+<output>
+<p>
+<param> (Deprecated)
+<picture>
+<plaintext> (Deprecated)
+<portal> (Experimental)
+<pre>
+<progress>
+<q>
+<rb> (Deprecated)
+<rp>
+<rt>
+<rtc> (Deprecated)
+<ruby>
+<s>
+<samp>
+<script>
+<search>
+<section>
+<select>
+<slot>
+<small>
+<source>
+<span>
+<strike> (Deprecated)
+<strong>
+<style>
+<sub>
+<summary>
+<sup>
+<table>
+<tbody>
+<td>
+<template>
+<textarea>
+<tfoot>
+<th>
+<thead>
+<time>
+<title>
+<tr>
+<track>
+<tt> (Deprecated)
+<u>
+<ul>
+<var>
+<video>
+<wbr>
+<xmp> (Deprecated)
+- Global attributes
+accesskey
+autocapitalize
+autofocus
+class
+contenteditable
+contextmenu (Non-standard, Deprecated)
+data-*
+dir
+draggable
+enterkeyhint
+exportparts
+hidden
+id
+inert
+inputmode
+is
+itemid
+itemprop
+itemref
+itemscope
+itemtype
+lang
+nonce
+part
+popover
+slot
+spellcheck
+style
+tabindex
+title
+translate
+virtualkeyboardpolicy
+Experimental
+Attributes
+accept
+autocomplete
+capture
+crossorigin
+dirname
+disabled
+elementtiming
+for
+max
+maxlength
+min
+minlength
+multiple
+pattern
+placeholder
+readonly
+rel
+required
+size
+step
+- <input> types
+<input type='button'>
+<input type='checkbox'>
+<input type='color'>
+<input type='date'>
+<input type='datetime-local'>
+<input type='email'>
+<input type='file'>
+<input type='hidden'>
+<input type='image'>
+<input type='month'>
+<input type='number'>
+<input type='password'>
+<input type='radio'>
+<input type='range'>
+<input type='reset'>
+<input type='search'>
+<input type='submit'>
+<input type='tel'>
+<input type='text'>
+<input type='time'>
+<input type='url'>
+<input type='week'>
+- Guides
+Content categories
+Block-level elements
+Inline elements
+Quirks Mode and Standards Mode
+Date and time formats used in HTML
+Constraint validation
+Microdata
+Microformats
+Viewport meta tag
+Allowing cross-origin use of images and canvas

@@ -1,0 +1,48 @@
+-- Prisma
+87
+https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg
+- OVERVIEW
+Introduction
+Prisma ORM in your stack
+Databases
+- PRISMA SCHEMA
+Overview
+Data model
+Introspection
+PostgreSQL extensionsPreview
+- PRISMA CLIENT
+Setup & configuration
+Queries
+Fields & types
+Extensions
+Type safety
+Testing
+Deployment
+Observability & logging
+Debugging & troubleshooting
+- PRISMA MIGRATE
+Getting started
+Understanding Prisma Migrate
+Workflows
+- TOOLS
+Prisma CLI
+Prisma Studio
+REFERENCE
+Prisma Client API
+Prisma Schema
+Prisma CLI
+Errors
+Environment variables
+Database features matrix
+Supported databases
+Connection URLs
+System requirements
+Preview features
+- MORE
+Under the hood
+Upgrade guides
+Comparing Prisma ORM
+Migrate to Prisma ORM
+Development environment
+Help & troubleshooting
+ORM releases and maturity levels

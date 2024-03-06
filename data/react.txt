@@ -1,0 +1,9 @@
+-- React
+34
+https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg
+- Components
+Rendering
+Props
+- Hooks
+useState and useEffect
+State Management

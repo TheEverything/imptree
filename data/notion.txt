@@ -1,0 +1,24 @@
+-- Notion
+34
+https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg
+- Notion AI
+Writer
+Autofill databases
+- Notion Calendar
+Connecting calendar with database
+- Workspaces
+- Using templates
+Notion templates
+Template marketplaces
+- Notion API
+- Block and markdown logic
+- Databases
+Database page
+Database view
+- Content blocks
+Links, backlinks
+Buttons
+Synced blocks
+Math equations
+- Formulas
+- Collabration & Publishing

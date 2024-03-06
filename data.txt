@@ -1,5 +1,3 @@
----- Software
-
 -- Git
 98
 https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg
@@ -155,10 +153,6 @@ Electron
 CodeQL
 npm
 
-----
-
----- Note Taking
-
 -- Notion
 34
 https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg
@@ -183,10 +177,6 @@ Synced blocks
 Math equations
 - Formulas
 - Collabration & Publishing
-
-----
-
----- Web Development
 
 -- Framer
 12

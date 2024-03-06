@@ -1,0 +1,58 @@
+-- Framer
+12
+https://github.com/tandpfun/skill-icons/raw/main/icons/Obsidian-Dark.svg
+- Workflow
+Pages
+Page folders
+- Layout
+Stack
+Grid
+Breakpoints
+- Properties
+Opacity
+Visibility
+Fill
+Overflow
+- Assets
+Color styles
+Light and dark mode
+Text styles
+- Extra Styling
+Custom cursors
+- Custom code
+Code overrides
+Custom components
+Custom component properties
+Package imports
+File imports
+- Navigation
+Lint to
+Scroll to
+- Components
+Basics
+Variables
+Variants
+Hover and active state
+- CMS
+CMS pages
+CMS lists
+Import csv
+Relational databases
+- Localization
+Basics
+CMS localization
+- Effects
+Transition effects
+Appear effects
+Scroll animation
+- Import
+Figma copy paste
+Chrome extension
+- Premade components
+Forms
+Icons
+Ticker
+Slideshow
+Carousel
+Code Block
+Creative components

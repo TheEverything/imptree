@@ -1,0 +1,13 @@
+-- Nextjs
+34
+https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg
+- Basics
+Server-side vs Client-side
+Project strucure and naming conventions
+- Routing
+- Data fetching
+- Rendering
+- Api routes
+- Rendering Images
+Image component
+Image render options
