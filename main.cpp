@@ -20,19 +20,19 @@ int main(){
   int microSkillId = 0;
 
   ofstream skillCategories;
-  skillCategories.open("1skillCategories.csv");
+  skillCategories.open("export/1skillCategories.csv");
   skillCategories << "id;name" << endl;
 
   ofstream skills;
-  skills.open("2skills.csv");
+  skills.open("export/2skills.csv");
   skills << "id;title;progress;imageUrl;skillCategoryId" << endl;
 
   ofstream skilltopics;
-  skilltopics.open("3skilltopics.csv");
+  skilltopics.open("export/3skilltopics.csv");
   skilltopics << "id;name;skillId" << endl;
 
   ofstream microskills;
-  microskills.open("4microskills.csv");
+  microskills.open("export/4microskills.csv");
   microskills << "id;name;skillTopicId" << endl;
 
   while(getline(dataFile, line)) {
