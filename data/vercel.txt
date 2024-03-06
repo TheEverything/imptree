@@ -1,0 +1,22 @@
+-- Vercel
+34
+https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg
+- Get Started
+- Frameworks
+- Projects
+Project Dashboard
+Monorepos
+Environment Variables
+vercel.json
+Git Configuration
+Global Configuration
+- Deployments
+Git Integrations
+Environments
+Generated URLs
+Preview Deployments
+Manage Deployments
+Deploy Hooks
+Webhooks
+Deploy Button
+- Builds
