@@ -83,45 +83,10 @@ id;name;skillId
 82;Getting started;11
 83;Import notes;11
 84;User interface;11
-85;Editing and formatting;11
-86;Linking notes and files;11
-87;Files and folders;11
-88;Plugins;11
-89;Obsidian Publish;11
-90;Obsidian Sync;11
-91;Extending Obsidian;11
-92;OVERVIEW;12
-93;PRISMA SCHEMA;12
-94;PRISMA CLIENT;12
-95;PRISMA MIGRATE;12
-96;TOOLS;12
-97;MORE;12
-98;Overview;13
-99;Hooks;13
-100;Components;13
-101;APIs;13
-102;Getting Started;14
-103;Core Concepts;14
-104;Customization;14
-105;Base Styles;14
-106;Layout;14
-107;Flexbox & Grid;14
-108;Spacing;14
-109;Sizing;14
-110;Typography;14
-111;Backgrounds;14
-112;Borders;14
-113;Effects;14
-114;Filters;14
-115;Tables;14
-116;Transitions & Animation;14
-117;Transforms;14
-118;Interactivity;14
-119;SVG;14
-120;Accessibility;14
-121;Official Plugins;14
-122;Get Started;15
-123;Frameworks;15
-124;Projects;15
-125;Deployments;15
-126;Builds;15
+85;OVERVIEW;12
+86;Overview;13
+87;Hooks;13
+88;Getting Started;14
+89;Get Started;15
+90;Frameworks;15
+91;Projects;15
