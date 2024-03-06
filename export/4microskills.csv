@@ -525,3 +525,239 @@ id;name;skillTopicId
 524;CSS snippets;90
 525;Plugin security;90
 526;Obsidian URI;90
+527;Introduction to HTML;91
+528;Introduction to HTML overview;91
+529;Getting started with HTML;91
+530;What's in the head? Metadata in HTML;91
+531;HTML text fundamentals;91
+532;Creating hyperlinks;91
+533;Advanced text formatting;91
+534;Document and website structure;91
+535;Debugging HTML;91
+536;Assessment: Marking up a letter;91
+537;Assessment: Structuring a page of content;91
+538;Multimedia and embedding overview;92
+539;Images in HTML;92
+540;Video and audio content;92
+541;From object to iframe — other embedding technologies;92
+542;Adding vector graphics to the web;92
+543;Responsive images;92
+544;Assessment: Mozilla splash page;92
+545;HTML tables overview;93
+546;HTML table basics;93
+547;HTML table advanced features and accessibility;93
+548;Assessment: Structuring planet data;93
+549;<a>;94
+550;<abbr>;94
+551;<acronym> (Deprecated);94
+552;<address>;94
+553;<area>;94
+554;<article>;94
+555;<aside>;94
+556;<audio>;94
+557;<b>;94
+558;<base>;94
+559;<bdi>;94
+560;<bdo>;94
+561;<big> (Deprecated);94
+562;<blockquote>;94
+563;<body>;94
+564;<br>;94
+565;<button>;94
+566;<canvas>;94
+567;<caption>;94
+568;<center> (Deprecated);94
+569;<cite>;94
+570;<code>;94
+571;<col>;94
+572;<colgroup>;94
+573;<data>;94
+574;<datalist>;94
+575;<dd>;94
+576;<del>;94
+577;<details>;94
+578;<dfn>;94
+579;<dialog>;94
+580;<dir> (Deprecated);94
+581;<div>;94
+582;<dl>;94
+583;<dt>;94
+584;<em>;94
+585;<embed>;94
+586;<fencedframe> (Experimental);94
+587;<fieldset>;94
+588;<figcaption>;94
+589;<figure>;94
+590;<font> (Deprecated);94
+591;<footer>;94
+592;<form>;94
+593;<frame> (Deprecated);94
+594;<frameset> (Deprecated);94
+595;<h1>;94
+596;<head>;94
+597;<header>;94
+598;<hgroup>;94
+599;<hr>;94
+600;<html>;94
+601;<i>;94
+602;<iframe>;94
+603;<img>;94
+604;<input>;94
+605;<ins>;94
+606;<kbd>;94
+607;<label>;94
+608;<legend>;94
+609;<li>;94
+610;<link>;94
+611;<main>;94
+612;<map>;94
+613;<mark>;94
+614;<marquee> (Deprecated);94
+615;<menu>;94
+616;<menuitem> (Non-standard, Deprecated);94
+617;<meta>;94
+618;<meter>;94
+619;<nav>;94
+620;<nobr> (Deprecated);94
+621;<noembed> (Deprecated);94
+622;<noframes> (Deprecated);94
+623;<noscript>;94
+624;<object>;94
+625;<ol>;94
+626;<optgroup>;94
+627;<option>;94
+628;<output>;94
+629;<p>;94
+630;<param> (Deprecated);94
+631;<picture>;94
+632;<plaintext> (Deprecated);94
+633;<portal> (Experimental);94
+634;<pre>;94
+635;<progress>;94
+636;<q>;94
+637;<rb> (Deprecated);94
+638;<rp>;94
+639;<rt>;94
+640;<rtc> (Deprecated);94
+641;<ruby>;94
+642;<s>;94
+643;<samp>;94
+644;<script>;94
+645;<search>;94
+646;<section>;94
+647;<select>;94
+648;<slot>;94
+649;<small>;94
+650;<source>;94
+651;<span>;94
+652;<strike> (Deprecated);94
+653;<strong>;94
+654;<style>;94
+655;<sub>;94
+656;<summary>;94
+657;<sup>;94
+658;<table>;94
+659;<tbody>;94
+660;<td>;94
+661;<template>;94
+662;<textarea>;94
+663;<tfoot>;94
+664;<th>;94
+665;<thead>;94
+666;<time>;94
+667;<title>;94
+668;<tr>;94
+669;<track>;94
+670;<tt> (Deprecated);94
+671;<u>;94
+672;<ul>;94
+673;<var>;94
+674;<video>;94
+675;<wbr>;94
+676;<xmp> (Deprecated);94
+677;accesskey;95
+678;autocapitalize;95
+679;autofocus;95
+680;class;95
+681;contenteditable;95
+682;contextmenu (Non-standard, Deprecated);95
+683;data-*;95
+684;dir;95
+685;draggable;95
+686;enterkeyhint;95
+687;exportparts;95
+688;hidden;95
+689;id;95
+690;inert;95
+691;inputmode;95
+692;is;95
+693;itemid;95
+694;itemprop;95
+695;itemref;95
+696;itemscope;95
+697;itemtype;95
+698;lang;95
+699;nonce;95
+700;part;95
+701;popover;95
+702;slot;95
+703;spellcheck;95
+704;style;95
+705;tabindex;95
+706;title;95
+707;translate;95
+708;virtualkeyboardpolicy;95
+709;Experimental;95
+710;Attributes;95
+711;accept;95
+712;autocomplete;95
+713;capture;95
+714;crossorigin;95
+715;dirname;95
+716;disabled;95
+717;elementtiming;95
+718;for;95
+719;max;95
+720;maxlength;95
+721;min;95
+722;minlength;95
+723;multiple;95
+724;pattern;95
+725;placeholder;95
+726;readonly;95
+727;rel;95
+728;required;95
+729;size;95
+730;step;95
+731;<input type='button'>;96
+732;<input type='checkbox'>;96
+733;<input type='color'>;96
+734;<input type='date'>;96
+735;<input type='datetime-local'>;96
+736;<input type='email'>;96
+737;<input type='file'>;96
+738;<input type='hidden'>;96
+739;<input type='image'>;96
+740;<input type='month'>;96
+741;<input type='number'>;96
+742;<input type='password'>;96
+743;<input type='radio'>;96
+744;<input type='range'>;96
+745;<input type='reset'>;96
+746;<input type='search'>;96
+747;<input type='submit'>;96
+748;<input type='tel'>;96
+749;<input type='text'>;96
+750;<input type='time'>;96
+751;<input type='url'>;96
+752;<input type='week'>;96
+753;Content categories;97
+754;Block-level elements;97
+755;Inline elements;97
+756;Quirks Mode and Standards Mode;97
+757;Date and time formats used in HTML;97
+758;Constraint validation;97
+759;Microdata;97
+760;Microformats;97
+761;Viewport meta tag;97
+762;Allowing cross-origin use of images and canvas;97
