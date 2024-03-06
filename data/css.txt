@@ -1,0 +1,432 @@
+-- CSS
+12
+https://github.com/tandpfun/skill-icons/raw/main/icons/Obsidian-Dark.svg
+- Modules
+CSS animations
+CSS backgrounds and borders
+CSS basic user interface
+CSS box alignment
+CSS box model
+CSS cascade and inheritance
+CSS custom properties for cascading variables
+CSS color adjustment
+CSS colors
+CSS compositing and blending
+CSS conditional rules
+CSS containment
+CSS counter styles
+CSS display
+CSS filter effects
+CSS flexible box layout
+CSS font loading
+CSS fonts
+CSS fragmentation
+CSS generated content
+CSS grid layout
+CSS images
+CSS lists and counters
+CSS logical properties and values
+CSS masking
+CSS media queries
+CSS miscellaneous
+CSS motion path
+CSS multi-column layout
+CSS namespaces
+CSS nesting
+CSS overflow
+CSS overscroll behavior
+CSS paged media
+CSS positioned layout
+CSS properties and values API
+CSS pseudo-elements
+CSS ruby layout
+CSS scoping
+CSS scroll-driven animations
+CSS scroll snap
+CSS scrollbars styling
+CSS selectors
+CSS shadow parts
+CSS shapes
+CSS syntax
+CSS table
+CSS text
+CSS text decoration
+CSS transforms
+CSS transitions
+CSS writing modes
+CSSOM view
+- Properties
+-moz-*
+-webkit-*
+accent-color
+align-*
+all
+animation-*
+appearance
+aspect-ratio
+backdrop-filter
+backface-visibility
+background-*
+block-size
+border-*
+bottom
+box-*
+break-*
+caption-side
+caret-color
+clear
+clipDeprecated
+clip-path
+color-*
+column-*
+columns
+contain-*
+container-*
+content
+content-visibilityExperimental
+counter-*
+cursor
+direction
+display
+empty-cells
+filter
+flex-*
+float
+font-*
+forced-color-adjust
+gap
+grid-*
+hanging-punctuation
+height
+hyphenate-character
+hyphenate-limit-chars
+hyphens
+image-*
+initial-letterExperimental
+initial-letter-alignExperimental
+inline-size
+inset-*
+isolation
+justify-*
+left
+letter-spacing
+line-*
+list-*
+margin-*
+mask-*
+masonry-auto-flowExperimental
+math-*
+max-*
+min-*
+mix-blend-mode
+object-fit
+object-position
+offset-*
+opacity
+order
+orphans
+outline-*
+overflow-*
+overlayExperimental
+overscroll-*
+padding-*
+page-*
+paint-order
+perspective
+perspective-origin
+place-*
+pointer-events
+position
+print-color-adjust
+quotes
+resize
+right
+rotate
+row-gap
+ruby-alignExperimental
+ruby-position
+scale
+scroll-*
+scrollbar-*
+shape-*
+tab-size
+table-layout
+text-*
+timeline-scopeExperimental
+top
+touch-action
+transform-*
+transition-*
+translate
+unicode-bidi
+user-modifyNon-standardDeprecated
+user-select
+vertical-align
+view-*
+visibility
+white-space
+white-space-collapse
+widows
+width
+will-change
+word-break
+word-spacing
+writing-mode
+z-index
+zoomNon-standard
+-   Selectors
+Attribute selectors
+Class selectors
+ID selectors
+& nesting selector
+Type selectors
+Universal selectors
+- Combinators
+Child combinator
+Column combinatorExperimental
+Descendant combinator
+Namespace separator
+Next-sibling combinator
+Selector list
+Subsequent-sibling combinator
+- Pseudo-classes
+:-moz-brokenNon-standard
+:-moz-drag-overNon-standard
+:-moz-first-nodeNon-standard
+:-moz-handler-blockedNon-standard
+:-moz-handler-crashedNon-standard
+:-moz-handler-disabledNon-standard
+:-moz-last-nodeNon-standard
+:-moz-loadingNon-standard
+:-moz-locale-dir(ltr)Non-standard
+:-moz-locale-dir(rtl)Non-standard
+:-moz-only-whitespaceNon-standard
+:-moz-submit-invalidNon-standard
+:-moz-suppressedNon-standard
+:-moz-user-disabledNon-standard
+:-moz-window-inactiveNon-standard
+:active
+:any-link
+:autofill
+:blankExperimental
+:buffering
+:checked
+:current
+:default
+:defined
+:dir()
+:disabled
+:empty
+:enabled
+:first
+:first-child
+:first-of-type
+:focus
+:focus-visible
+:focus-within
+:fullscreen
+:future
+:has()
+:host
+:host-context()
+:host()
+:hover
+:in-range
+:indeterminate
+:invalid
+:is()
+:lang()
+:last-child
+:last-of-type
+:left
+:link
+:local-link
+:modal
+:muted
+:not()
+:nth-child()
+:nth-last-child()
+:nth-last-of-type()
+:nth-of-type()
+:only-child
+:only-of-type
+:optional
+:out-of-range
+:past
+:paused
+:picture-in-picture
+:placeholder-shown
+:playing
+:popover-open
+:read-only
+:read-write
+:required
+:right
+:root
+:scope
+:seeking
+:stalled
+:state()Experimental
+:target
+:target-withinExperimental
+:user-invalid
+:user-valid
+:valid
+:visited
+:volume-locked
+:where()
+- Pseudo-elements
+::-moz-color-swatchNon-standard
+::-moz-focus-innerExperimental
+::-moz-list-bulletNon-standard
+::-moz-list-numberNon-standard
+::-moz-pageNon-standard
+::-moz-page-sequenceNon-standard
+::-moz-progress-barNon-standard
+::-moz-range-progressNon-standard
+::-moz-range-thumbNon-standard
+::-moz-range-trackNon-standard
+::-moz-scrolled-page-sequenceNon-standard
+::-webkit-inner-spin-buttonNon-standard
+::-webkit-meter-barNon-standard
+::-webkit-meter-even-less-good-valueNon-standard
+::-webkit-meter-inner-elementNon-standard
+::-webkit-meter-optimum-valueNon-standard
+::-webkit-meter-suboptimum-valueNon-standard
+::-webkit-progress-barNon-standard
+::-webkit-progress-inner-elementNon-standard
+::-webkit-progress-valueNon-standard
+::-webkit-scrollbarNon-standard
+::-webkit-search-cancel-buttonNon-standard
+::-webkit-search-results-buttonNon-standard
+::-webkit-slider-runnable-trackExperimental
+::-webkit-slider-thumbExperimental
+::after
+::backdrop
+::before
+::cue
+::cue-region
+::file-selector-button
+::first-letter
+::first-line
+::grammar-error
+::highlight()
+::marker
+::part()
+::placeholder
+::selection
+::slotted()
+::spelling-error
+::target-textExperimental
+::view-transitionExperimental
+::view-transition-groupExperimental
+::view-transition-image-pairExperimental
+::view-transition-newExperimental
+::view-transition-oldExperimental
+- At-rules
+@charset
+@color-profile
+@container
+@counter-style
+@documentNon-standardDeprecated
+@font-face
+@font-feature-values
+@font-palette-values
+@import
+@keyframes
+@layer
+@media
+@namespace
+@page
+@property
+@scope
+@starting-styleExperimental
+@supports
+- Functions
+-moz-image-rectNon-standardDeprecated
+abs()
+acos()
+asin()
+atan()
+atan2()
+attr()
+calc()
+clamp()
+cos()
+counter()
+counters()
+cross-fade()
+element()Experimental
+env()
+exp()
+fit-content()
+hypot()
+log()
+max()
+min()
+minmax()
+mod()
+path()
+pow()
+ray()
+rem()
+repeat()
+round()
+sign()
+sin()
+sqrt()
+symbols()
+tan()
+url()
+var()
+- Types
+<absolute-size>
+<alpha-value>
+<angle>
+<angle-percentage>
+<basic-shape>
+<blend-mode>
+<box-edge>
+<calc-constant>
+<calc-sum>
+<color-interpolation-method>
+<color>
+<custom-ident>
+<dashed-ident>
+<dimension>
+<display-box>
+<display-inside>
+<display-internal>
+<display-legacy>
+<display-listitem>
+<display-outside>
+<easing-function>
+<filter-function>
+<flex>
+<frequency>
+<frequency-percentage>
+<generic-family>
+<gradient>
+<hex-color>
+<hue>
+<hue-interpolation-method>
+<ident>
+<image>
+<integer>
+<length>
+<length-percentage>
+<line-style>
+<named-color>
+<number>
+<overflow>
+<percentage>
+<position>
+<ratio>
+<relative-size>
+<resolution>
+<shape>Deprecated
+<string>
+<system-color>
+<time>
+<time-percentage>
+<transform-function>
