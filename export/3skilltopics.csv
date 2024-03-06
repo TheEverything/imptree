@@ -31,62 +31,15 @@ id;name;skillId
 30;Git Branching;5
 31;GitHub;5
 32;Git Tools;5
-33;Customizing Git;5
-34;Git and Other Systems;5
-35;Git Internals;5
-36;Git in Other Environments ;5
-37;Embedding Git in your Applications;5
-38;Git Commands (Appendix);5
-39;Get started;6
-40;Collaborative coding;6
-41;CI/CD and DevOps;6
-42;Security;6
-43;Client apps;6
-44;Project management;6
-45;Developers;6
-46;Enterprise and Teams;6
-47;Community;6
-48;More docs (Related Skills);6
-49;HTML basics;7
-50;Multimedia and embedding;7
-51;HTML tables;7
-52;HTML elements;7
-53;Global attributes;7
-54;<input> types;7
-55;Guides;7
-56;Getting Started;9
-57;Routing;9
-58;Data Fetching;9
-59;Rendering;9
-60;Caching;9
-61;Styling;9
-62;Optimizing;9
-63;Configuring;9
-64;Authentication;9
-65;Deploying;9
-66;Upgrading;9
-67;Components;9
-68;File Conventions;9
-69;Functions;9
-70;next.config.js Options;9
-71;CLI;9
-72;Notion AI;10
-73;Notion Calendar;10
-74;Workspaces;10
-75;Using templates;10
-76;Notion API;10
-77;Block and markdown logic;10
-78;Databases;10
-79;Content blocks;10
-80;Formulas;10
-81;Collabration & Publishing;10
-82;Getting started;11
-83;Import notes;11
-84;User interface;11
-85;OVERVIEW;12
-86;Overview;13
-87;Hooks;13
-88;Getting Started;14
-89;Get Started;15
-90;Frameworks;15
-91;Projects;15
+33;Get started;6
+34;HTML basics;7
+35;Getting Started;9
+36;Notion AI;10
+37;Getting started;11
+38;OVERVIEW;12
+39;Overview;13
+40;Hooks;13
+41;Getting Started;14
+42;Get Started;15
+43;Frameworks;15
+44;Projects;15

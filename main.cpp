@@ -69,7 +69,7 @@ int main(){
                         skilltopics << skillTopicId << ";" << line.substr(2) << ";" << skillId << endl;
                     }
                     else { 
-                        if(microSkillId == 1000) { break; }
+                        if(microSkillId == 500) { break; }
                         microSkillId++;
                         microskills << microSkillId << ";" << line << ";" << skillTopicId << endl;
                     }
