@@ -53,7 +53,7 @@ int main(){
                     }
                     else if(startsWith(line, "----")) { 
                         skillCategoryId++;
-                        skillCategories << "1" << ";" << line.substr(5) << endl; //todo: change to dynamic skillcategoryid
+                        skillCategories << skillCategoryId << ";" << line.substr(5) << endl; 
                     }
                     else if(startsWith(line, "--")) { 
                         skillId++;
@@ -62,7 +62,7 @@ int main(){
                         skills << ";" << line;
                         getline(dataFile, line);
                         skills << ";" << line;
-                        skills << ";" << skillCategoryId << endl;
+                        skills << ";" << "1" << endl; //todo: change to dynamic skillcategoryid
                     }
                     else if(startsWith(line, "-")) { 
                         skillTopicId++;
