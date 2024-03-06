@@ -1,9 +1,36 @@
 -- React
 34
 https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg
-- Components
-Rendering
-Props
+- Overview
 - Hooks
-useState and useEffect
-State Management
+use 
+useCallback
+useContext
+useDebugValue
+useDeferredValue
+useEffect
+useId
+useImperativeHandle
+useInsertionEffect
+useLayoutEffect
+useMemo
+useOptimistic 
+useReducer
+useRef
+useState
+useSyncExternalStore
+useTransition
+- Components
+<Fragment> (<>)
+<Profiler>
+<StrictMode>
+<Suspense>
+- APIs
+cache 
+createContext
+forwardRef
+lazy
+memo
+startTransition
+experimental_taintObjectReference 
+experimental_taintUniqueValue 
